@@ -1,0 +1,19 @@
+name: core-tso
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9
+  - pip
+  - mamba
+  - pandas
+  - numpy
+  - snakemake-minimal
+  - geopy
+  - country_converter
+  - ipython
+  - pre-commit
+  - jupyter
+  - jupyterlab
+  - pypsa
+  - black

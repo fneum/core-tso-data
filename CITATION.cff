@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+title: "Processing of Core TSO Grid Data"
+repository: https://github.com/fneum/core-tso-data
+version: 0.01
+license: MIT
+authors:
+  - family-names: Neumann
+    given-names: Fabian
+    orcid: https://orcid.org/0000-0001-8551-1480
+  - family-names: Brown
+    given-names: Tom
+    orcid: https://orcid.org/0000-0001-5898-1911

@@ -1,0 +1,51 @@
+source: /data/jao/Static Grid Model Handbook_final.docx
+
+MAVIR:
+  period_1:
+    start: 01-12-2022
+    end: 28-02-2022
+  period_2:
+    start: 01-03-2022
+    end: 31-05-2022
+  period_3:
+    start: 01-06-2022
+    end: 31-08-2022
+  period_4:
+    start: 01-09-2022
+    end: 30-11-2022
+
+PSE:
+  period_1:
+    start: 01-01-2022
+    end: 31-03-2022
+  period_2:
+    start: 01-04-2022
+    end: 30-06-2022
+  period_3:
+    start: 01-07-2022
+    end: 30-09-2022
+  period_4:
+    start: 01-10-2022
+    end: 31-12-2022
+
+TENNET_NL:
+  period_1:
+    start: 01-04-2022
+    end: 31-10-2022
+  period_2:
+    start: 01-11-2022
+    end: 31-03-2022
+
+TRANSELECTRICA:
+  period_1:
+    start: 01-06-2022
+    end: 30-08-2022
+  period_2:
+    start: 01-03-2022
+    end: 31-05-2022
+  period_3:
+    start: 01-12-2022
+    end: 28-02-2022
+  period_4:
+    start: 01-09-2022
+    end: 30-11-2022

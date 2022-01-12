@@ -1,0 +1,19 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.1.0
+  hooks:
+  - id: trailing-whitespace
+  - id: check-yaml
+  - id: check-merge-conflict
+  - id: check-added-large-files
+    args: ['--maxkb=15000']
+- repo: https://github.com/aflc/pre-commit-jupyter
+  rev: v1.2.1
+  hooks:
+  - id: jupyter-notebook-cleanup
+    args:
+    - --remove-kernel-metadata
+- repo: https://github.com/psf/black
+  rev: 21.12b0
+  hooks:
+  - id: black
