@@ -24,12 +24,6 @@ conda env create -f environment.yaml
 snakemake -j 1 process_data
 ```
 
-To edit the Jupyter notebooks:
-
-```sh
-snakemake -j 1 --edit-notebooks process_data
-```
-
 ## License
 
 The code is distributed with an MIT license.
