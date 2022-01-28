@@ -1,3 +1,173 @@
-Karlsruhe-West:
-  x: 0.0
-  y: 0.0
+Kühtai:
+  x: 11.01187
+  y: 47.21092
+  address: Kraftwerk Kühtai, Silz, 6183, Österreich
+  comment: TENNET line in DE, but actually in AT
+
+LEMESANY:
+  x: 21.26014
+  y: 48.85817
+  address: Elektrická stanica Lemešany, Jarková 13/6, Lipany, 082 71, Slovensko
+  comment: Tieline – Bus SKus SK
+
+LESQUIVE:
+  x: 1.27608
+  y: 43.8184
+  address: Poste électrique de Lesquive, Grisolles, 82170, France
+  comment: RTE line, Not really a town name
+
+LONNY:
+  x: 4.57778
+  y: 49.82142
+  address: Poste électrique de Lonny, Harcy, 08150, France
+  comment: Tieline – Bus in FR
+
+Leupolz:
+  x: 10.35887
+  y: 47.73892
+  address: Umspannanlage Leupolz, Lenzfrieder Straße 125, Kempten (Allgäu), 87437, Deutschland
+  comment: Tieline – Bus in DE
+
+Levice:
+  x: 18.60096
+  y: 48.22886
+  address: Levice, okres Levice, Nitriansky kraj, Západné Slovensko, Slovensko
+  comment: Tieline – Bus in SK
+
+Liskovec:
+  x: 18.31866
+  y: 49.71127
+  address: Lískovec, Městečko Trnávka, okres Svitavy, Pardubický kraj, Severovýchod, Česko
+  comment: Tieline – Bus in CZ
+
+MAASBRACHT:
+  x: 5.91674
+  y: 51.14503
+  address: Maasbracht, Linnerweg 11, Maasbracht, 6051 KK, Nederland
+  comment: Tieline – Bus in NL
+
+MAMBELIN:
+  x: 6.665415
+  y: 47.368333
+  address: Poste électrique de Mambelin, Les Quares, Dambelin, 25150, France
+  comment: RTE line, Not really a town name
+
+MASTAING: 
+  x: 3.291276
+  y: 50.296262
+  address: Mastaing, Valenciennes, Nord, Hauts-de-France, France métropolitaine, 59172, France
+  comment: Tieline – Bus in FR
+
+MERSUR-SEINE:
+  x: 3.91361
+  y: 48.51667
+  address: Poste électrique de Méry-sur-Seine, Méry-sur-Seine, D7, Méry-sur-Seine, 10170, France
+  comment: Wrong name in the table, but correct in the original data MERY-SUR-SEINE
+
+MONTAGNLES-LANCHES:
+  x: 6.05569
+  y: 45.86396
+  address: Poste électrique de Montagny-Les Lanches, CR dit de la Fully, Montagny-Les Lanches,  74600, France
+  comment: Wrong name in the table, but correct in the original data MONTAGNY-LES-ANGLES
+
+MOULAINE:
+  x: 5.7926
+  y: 49.48253
+  address: Moulaine, Saint-Charles, Haucourt-Moulaine, Briey, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54860, France
+  comment: Tieline – Bus in FR
+
+Maribor:
+  x: 15.69251
+  y: 46.52299
+  address: Maribor, 2000, Slovenija
+  comment: Tieline – Bus in SI
+
+Mikulowa:
+  x: 15.11432
+  y: 51.08908
+  address: Stacja elektroenergetyczna „Mikułowa”, Mikułowa, 59-975, Polsko
+  comment: Tieline – Bus in PL
+
+Mukachevo:
+  x: 22.6388
+  y: 48.42149
+  address: Мукачеве-400, Semynovych, 89626, Україна
+  comment: Tieline – bus in UA
+
+NEMO CONVERTOR STATION:
+  x: 3.207471
+  y: 51.267331
+  address: Nemo Link Converter Station, Pathoekeweg 302, Brugge, 8000, België
+  comment: Tieline – Bus in BE
+
+NOSOVICE:
+  x: 18.434385
+  y: 49.668046
+  address: Nošovice, okres Frýdek-Místek, Moravskoslezský kraj, Moravskoslezsko, 73951, Česko
+  comment: Tieline – Bus in CZ
+
+Nadab: 
+  x: 21.52235
+  y: 46.46594
+  address: Nagyvárad-távvezeték alállomás, Nădab, Chișineu-Criș, Arad, 315101, România
+  comment: Tieline – Bus in RO
+
+L. Mara:
+  x: 19.48721
+  y: 49.08728
+  address: Liptovská Mara, Vlachy-Sokolče, 032 13, Slovensko
+  comment: Wrong assignment, because common name
+
+MAERLANT:
+  x: 3.5354
+  y: 51.2064
+  address: Eeklo Noord, Eeklo, 9900, België
+  comment: Wrong assignment, because wrong name
+
+MENUEL:
+  x: -1.57765
+  y: 49.47623
+  address: Poste électrique de Menuel, L’Étang-Bertrand, 50260, France
+  comment: Just slightly off
+
+MILOSNA:
+  x: 21.28896
+  y: 52.22869
+  address: Stacja elektroenergetyczna "Miłosna", Sulejowek, 05-070 , Polonska
+  comment: Wrong assignment, because common name
+
+MOSZCZENICA:
+  x: 19.676607462
+  y: 51.50468995
+  address: Stacja elektroenergetyczna „Moszczenica”, Towarowa, 44-330 Jastrzębie-Zdrój, Polònia
+  comment: Wrong assignment, because common name
+
+Mayrhofen:
+  x: 11.8638664
+  y: 47.1672188
+  address: Schaltanlage Mayrhofen, Stumpfau, 6290 Mayrhofen, 6290, Tirol, Österreich
+  comment: Just slightly off
+
+Meeden:
+  x: 6.94509
+  y: 53.1259
+  address: Meeden, Wethouder L. Veemanweg 11, Meeden, 9651CN, Nederland
+  comment: Wrong assignment, because common name, Tieline – Bus in NL
+
+Meiningen:
+  x: 9.59153
+  y: 47.31735
+  address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
+  comment: Just slightly off
+
+Meiningen:
+  x: 9.59153
+  y: 47.31735
+  address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
+  comment: Wrong assignment, Tieline – Bus in AT
+
+Meissen: 
+  x: 8.96046
+  y: 52.27965
+  address: Umspannwerk Meißen, Grille, Minden, 32423, Deutchland
+  comment: Wrong assignment, because common name
