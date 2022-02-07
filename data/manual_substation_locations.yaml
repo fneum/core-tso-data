@@ -1,3 +1,179 @@
-Karlsruhe-West:
-  x: 0.0
-  y: 0.0
+Cierny Vah:
+  x: 19.806650
+  y: 49.017433
+  comment: Electrical substation
+
+Cluj Est:
+  x: 23.671284
+  y: 46.778832
+  comment: Near the train station Cluj-Napoca Est
+  
+Cluj Floresti:
+  x: 23.459961
+  y: 46.739890
+  comment: Electrical substation near to Floresti
+ 
+Conneforde:
+  x: 8.053005
+  y: 53.332525
+  comment: Electrical substation north of Conneforde
+  
+Conneforde O:
+  x: 8.053005
+  y: 53.332525
+  comment: Electrical substation north of Conneforde
+
+DOBROTWOR:
+  x: 24.387077
+  y: 50.205545
+  comment: Dobrotvir a city in Ukraine (in polish Dobrotwor)
+
+Daürsberg:
+  x: 7.863213
+  y: 50.767377
+  comment: Dauersberg transformer station  (Spelling error)
+
+Detk:
+  x: 20.107589
+  y: 47.773761
+  comment: Electrical substation near to power station Mátra
+  
+Diele:
+  x: 7.311716
+  y: 53.126130
+  comment: Electrical substation near to Diele DE
+
+Divaca:
+  x: 13.968825
+  y: 45.691287
+  comment: Electrical substation near to Divaca Slovenia
+  
+Djerdap:
+  x: 22.53651
+  y: 44.673441
+  comment: Electrical substation near to Iron Gate I Hydroelectric Power Station
+  
+Dobrudja:
+  x: 27.200118
+  y: 44.110039
+  comment: Electrical substation near to Dobrudja Bulgaria
+  
+Dobrzen:
+  x: 17.874304
+  y: 50.745841
+  comment: Electrical substation near to Opole Power Plant
+  
+Dörpen W:
+  x: 7.256018
+  y: 52.981963
+  comment: Electrical substation for offshore wind (Konverter Station Dörpen West)
+  
+Dreibein Mellach:
+  x: 15.484837
+  y: 46.908909
+  comment: Electrical substation near to Power Station Mellach
+  
+Dresden Süd:
+  x: 13.841615
+  y: 50.990035
+  comment: Electrical substation near to train station Dresden-Zschachwitz
+  
+Durnrohr:
+  x: 15.884607
+  y: 48.328263
+  comment: Electrical substation near to Dürnrohr AT
+  
+EEKLO NOORD:
+  x: 6.862864
+  y: 51.207298
+  comment: Electrical substation near to Krekelmuit
+  
+Eemshaven:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven Oost:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven Oude Schip:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven het Hogeland:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Emden Borssum:
+  x: 7.224262
+  y: 53.349967
+  comment: Electrical substation Emden
+  
+Emden O:
+  x: 7.207252
+  y: 53.341283
+  comment: Electrical substation near to Power Station Emden
+  
+Ernestinovo:
+  x: 18.663405
+  y: 45.473047
+  comment: Electrical substation connecting Croatia, Hungary, Serbia, Bosnia
+  
+Ertsmyra:
+  x: 6.754013
+  y: 58.669139
+  comment: Electrical substation in Norway connecting Germany with Norway (NordLink DC Cable)
+  
+Etzenricht:
+  x: 12.114281
+  y: 49.631450
+  comment: Electrical substation in Germany connecting Germany with Czechia
+  
+Frankfurt N:
+  x: 8.664841
+  y: 50.160869
+  comment: Electrical substations in Frankfurt not exactly determinable 
+
+Frankfurt SW:
+  x: 8.664841
+  y: 50.160869
+  comment: Electrical substations in Frankfurt not exactly determinable 
+  
+GALOREAUX LES:
+  x: -0.855275
+  y: 47.309829
+  comment: Electrical substations near to Coved Bourgneuf
+  
+GDANSK PRZYJAZN:
+  x: 18.385561
+  y: 54.306544
+  comment: Electrical substations
+  
+GDANSK-BLONI:
+  x: 18.708908
+  y: 54.338139
+  comment: Electrical substations
+ 
+GKMB:
+  x: 8.500120
+  y: 49.444399
+  comment: Electrical substations near to power station Grosskraftwerk Mannheim
+ 
+GKN2:
+  x: 9.177660
+  y: 49.037787
+  comment: Electrical substations near to nuclear power station Neckarwestheim
+  
+GREPILLES:
+  x: 4.116943
+  y: 46.083324
+  comment: Electrical substations near to Les Grepilles
+  
+Galceag:
+  x: 23.595041
+  y: 45.671580
+  comment: Electrical substations near to Galceag (Oasa) Hydroelectric Power Station
