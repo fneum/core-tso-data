@@ -399,3 +399,9 @@ LESNIOW:
   y: 51.98746
   address: Stacja elektroenergetyczna "Leśniów" 220/110 kV, Leśniów Wielki, 66-016 , Polsko
   comment: Wrong assignment, because common name
+
+Mühlhausen:
+  x: 9.21491
+  y: 48.84973
+  address: Heidenburgstraße, Stuttgart, 70378, Deutschland
+  comment: Wrong assignment, because common name
