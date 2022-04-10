@@ -1,0 +1,447 @@
+ABRAMOWICE:
+     x: 22.584133
+     y: 51.195981
+ACHENE BE:
+     x: 5.055462
+     y: 50.260651
+ACHENE FR:
+     x: 5.055462
+     y: 50.260651
+     comment: duplicate (FR line to ACHENE BE)
+ACHENE SNCB:
+     x: 5.055462
+     y: 50.260651
+     comment: Trainsystem related substation at ACHENE BE
+ADAMOW PL:
+     x: 18.5418
+     y: 52.0119
+AFTAKKING BUGGENHOUT 380k V BE:
+     x: 4.2305022
+     y: 51.0228458
+     comment: Y Connection, not a substation 
+AFTAKKING LIEFKENSHOEK 380k V BE:
+     x: 4.2949
+     y: 51.2917
+     comment: Y Connection, not a substation 
+AFTAKKING MEKINGEN 380k V BE:
+     x: 4.2201958
+     y:  50.7567046
+     comment: Y Connection, not a substation 
+AFTAKKING RODENHUIZE 380k V BE:
+     x: 3.7804502
+     y: 51.1327222
+     comment: Y Connection, not a substation  
+AFTAKKING ZUTTENDAAL 380k V BE:
+     x: 5.5434566
+     y: 50.9077343
+     comment: Y Connection, not a substation 
+AGASSES LES FR:
+     x: 4.66033
+     y: 43.88517
+ALBERTVILLE FR:
+     x: 6.4172
+     y: 45.6621
+ALBRECHTICE PL:
+     x: 18.50724
+     y: 49.78632
+ALEGRO CONVERTOR STATION BE:
+     x: 5.6673
+     y: 50.75303
+     comment: HVDC station
+ALYTUS PL:
+     x: 23.9742
+     y: 54.44449
+     comment: weird topology
+ANDRE DUMONT BE:
+     x: 5.48615
+     y: 50.93919
+ANIOLOW PL:
+     x: 19.14293
+     y: 50.83201
+ARGIA BAYONNE SUD FR:
+     x: -1.43022
+     y: 43.42163
+ARGOEUVES FR:
+     x: 2.2504
+     y: 49.9395
+ATTAQUES LES FR:
+     x: 1.9139458
+     y: 50.9213201
+AUBANGE BE:
+     x: 49.56694
+     y: 55.79502
+AUBANGE FR:
+     x: 49.56694
+     y: 55.79502
+     comment: duplicate (FR line to AUBANGE BE)
+AVELGEM BE:
+     x: 3.46867
+     y: 50.78257
+AVELGEM FR:
+     x: 3.46867
+     y: 50.78257
+     comment: duplicate (FR line to AVELGEM BE)
+AVELIN BE:
+     x: 3.0814
+     y: 50.52511
+     comment: duplicate (BE line to AVELIN FR)
+AVELIN FR:
+     x: 3.0814
+     y: 50.52511
+AVOINE POSTE 400 KV FR:
+     x: 0.16324
+     y: 47.22439
+AWIRS BE:
+     x: 5.4149
+     y: 50.58465
+Alba Iulia RO:
+     x: 23.57105
+     y: 46.08891
+Albertirsa HU:
+     x: 19.5805
+     y: 47.2254
+Albrechtice CZ:
+     x: 18.50729
+     y: 49.78617
+Alfstedt DE:
+     x: 9.0686
+     y: 53.56689
+Algermissen DE:
+     x: 9.9169
+     y: 52.27822
+Altbach DE:
+     x: 9.37094
+     y: 48.71924
+Altenfeld DE:
+     x: 10.99154
+     y: 50.57369
+Altentreptow Nord DE:
+     x: 13.31862
+     y: 53.73669
+Altentreptow Süd DE:
+     x: 13.17423
+     y: 53.62406
+Altheim AT:
+     x: 12.22211
+     y: 48.58566
+     comment: actually a DE node
+Altheim DE:
+     x: 12.22211
+     y: 48.58566
+Altlussheim DE:
+     x: 8.511873
+     y: 49.293911
+Arad HU:
+     x: 21.379247
+     y: 46.183617
+     comment: duplicate (HU line to Arad RO)
+Arad RO:
+     x: 21.379247
+     y: 46.183617
+Arefu RO:
+     x: 24.942265
+     y: 44.786548
+Raureni RO:
+     x: 24.942265
+     y: 44.786548
+
+Aschach AT:
+     x: 14.01988
+     y: 48.3852
+Aschaffenburg DE:
+     x: 9.09
+     y: 49.96833
+Asphard DE:
+     x: 7.75243
+     y: 47.5391
+     comment: actually a CH node
+Asslar DE:
+     x: 8.47983
+     y: 50.59096
+Audorf DE:
+     x: 9.72707
+     y: 54.29121
+Audorf S DE:
+     x: 9.725
+     y: 54.28828
+BAIXAS FR:
+     x: 2.80403
+     y: 42.73248
+BARNABOS FR:
+     x: 1.01256
+     y: 49.65771
+BASTOGNE BE:
+     x: 5.6868623
+     y: 49.9998160
+     comment: weird topology 
+BAYET FR:
+     x: 3.29454
+     y: 46.27333
+BEAUMONT-MONTEUX FR:
+     x: 4.92759
+     y: 45.01918 
+BELVAL BE:
+     x: 5.94947
+     y: 49.51017
+     comment: actually a LU node
+BERNEAU BE:
+     x: 5.71692
+     y: 50.74308
+BEZAUMONT FR:
+     x: 6.09742
+     y: 48.85747
+BIANCON FR:
+     x: 6.83575
+     y: 43.59514
+BIERUN PL:
+     x: 19.16923
+     y: 50.08626
+BLACHOWNIA PL:
+     x: 18.29404
+     y: 50.35926 
+BOCTOIS FR:
+     x: 3.51126 
+     y: 48.51887 
+BOGUCHWALA PL:
+     x: 21.93292
+     y: 49.99411
+BOGUSZOW PL:
+     x: 16.19075
+     y: 50.75282
+BOIS-TOLLOT FR:
+     x: 6.05528
+     y: 46.25086
+BOISSE LA FR:
+     x: 5.02291
+     y: 45.83859
+BOUTRE FR:
+     x: 5.83259
+     y: 43.69083
+BRAUD FR:
+     x: -0.68194
+     y: 45.25797
+BREUIL LE FR:
+     x: 2.21414
+     y: 45.24557
+BROC-CARROS LE FR:
+     x: 7.19154
+     y: 43.80328
+BRUEGEL BE:
+     x: 4.23192
+     y: 50.88084
+BRUME BE:
+     x: 5.84248
+     y: 50.37581
+BRUME SNCB BE:
+     x: 5.84248
+     y: 50.37581
+     comment: Train-System Node at BRUME 
+BUJAKOW PL:
+     x: 19.21231
+     y: 49.84254
+BYCZYNA PL:
+     x: 19.2927
+     y: 50.1633
+BYDGOSZCZ ZA PL:
+     x: 17.87762
+     y: 53.08886
+Babylon CZ:
+     x: 14.4547
+     y: 50.63523
+Bacau Sud RO:
+     x: 26.95017
+     y: 46.54127
+Baia Mare 3 RO:
+     x: 23.59957
+     y: 47.63414
+Bechterdissen DE:
+     x: 8.6588
+     y: 51.99911
+Bekescsaba HU:
+     x: 21.01375
+     y: 46.7071
+Bekescsaba RO:
+     x: 21.01375
+     y: 46.7071
+     comment: duplicate (RO line to Bekescsaba HU)
+Bentwisch DE:
+     x: 12.2136
+     y: 54.11234
+Bergrheinfeld DE:
+     x: 10.16119
+     y: 49.98963
+Bergrheinfeld W DE:
+     x: 10.1506
+     y: 49.9818
+Bergshausen DE:
+     x: 9.51433
+     y: 51.25913
+Bergum NL:
+     x: 6.02862
+     y: 53.21234
+Bertikow DE:
+     x: 13.9564
+     y: 53.2524
+Beuren DE:
+     x: 8.86154
+     y: 47.80654
+Beverwijk NL:
+     x: 4.67899
+     y: 52.47295
+Bezdecin CZ:
+     x: 15.11209
+     y: 50.65818
+Bicske Del HU:
+     x: 18.65277
+     y: 47.47312
+Bilice HR:
+     x: 15.90254
+     y: 43.75663
+Birkenfeld DE:
+     x: 8.64102
+     y: 48.8903
+Bisamberg AT:
+     x: 16.3783
+     y: 48.35835
+Bisamberg CZ:
+     x: 16.3783
+     y: 48.35835
+     comment: duplicate (CZ line to Bisamberg AT)
+Bleiswijk NL:
+     x: 4.52956
+     y: 52.03654
+Blockland DE:
+     x: 48.81979
+     y: 53.1076
+Borken DE:
+     x: 6.87967
+     y: 51.83952
+Borssele NL:
+     x: 3.7265
+     y: 51.4333
+Bosaca SK:
+     x: 17.83842
+     y: 48.79452
+Boxmeer NL:
+     x: 5.91323
+     y: 51.63875
+Bradu RO:
+     x: 24.27498
+     y: 45.0122
+Brasov RO:
+     x: 25.6102746
+     y: 45.6523093
+Braunschweig N DE:
+     x: 10.50525
+     y: 52.30183
+Brazi Vest RO:
+     x: 26.0072
+     y: 44.8758
+Brinje HR:
+     x: 15.10514
+     y: 44.99304
+Brunsbüttel DE:
+     x: 9.20148
+     y: 53.89585
+Bucuresti Sud RO:
+     x: 26.1553
+     y: 44.4053
+Bühl DE:
+     x: 8.12074
+     y: 48.70571
+Bünzwangen DE:
+     x: 9.56256
+     y: 48.70158
+Bürs AT:
+     x: 9.81019
+     y: 47.14275
+Bürs DE:
+     x: 9.81019
+     y: 47.14275
+     comment: duplicate (Bürs AT)
+Bujakow CZ:
+     x: 9.81019
+     y: 47.14275
+     comment: duplicate (CZ Line to Bujakow PL)
+Bärwalde DE:
+     x: 14.50783
+     y: 51.41375
+C. Stred CZ:
+     x: 14.76760
+     y: 50.14342
+CALAN FR:
+     x: -3.30264
+     y: 47.88148
+CAMPOROSSO FR:
+     x: 7.62940
+     y: 43.82817
+CANTEGRIT FR:
+     x: -0.88829
+     y: 44.01349
+CAPELLE LA FR:
+     x: 3.93426
+     y: 49.97456
+CAZARIL FR:
+     x: 0.51324
+     y: 43.17154
+CENTRALE COO BE:
+     x: 5.86172
+     y: 50.38469
+CHAFFARD LE FR:
+     x: 5.12265
+     y: 45.66293
+CHAINGY FR:
+     x: 1.80332
+     y: 47.87539
+CHAMBRY FR:
+     x: 2.90690
+     y: 48.98370
+CHAMPAGNIER FR:
+     x: 5.70909
+     y: 45.10669
+CHAMPION NAMUR BE:
+     x: 4.90364
+     y: 50.48876
+CHANCEAUX FR:
+     x: 0.69378
+     y: 47.48277
+CHARPENAY FR:
+     x: 4.68927
+     y: 45.81919
+CHELM PL:
+     x: 23.44011
+     y: 51.15841
+CHESNOY LE FR:
+     x: 2.86757
+     y: 48.38939
+CHEVALET FR:
+     x: 2.63833
+     y: 50.17963
+CHMIELOW PL:
+     x: 21.67094
+     y: 50.50434
+CHOOZ BE:
+     x: 4.7911
+     y: 50.0909
+     comment: duplicate (BE Line to CHOOZ FR)
+CHOOZ FR:
+     x: 4.7911
+     y: 50.0909
+CIEPLICE PL:
+     x: 15.68407
+     y: 50.88752
+CIROLLIERS FR:
+     x: 2.31894
+     y: 48.55165
+CLERAC FR:
+     x: -0.25089
+     y: 45.17789
+COCHE LA FR:
+     x: 6.50988
+     y: 45.49645
+CORNIER FR:
+     x: 6.29413
+     y: 46.08509
+
+
+

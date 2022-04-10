@@ -273,3 +273,699 @@ Krsko HR:
   x: 15.51911
   y: 45.94178
   comment: nuclear plant in Slovenia
+
+Cierny Vah:
+  x: 19.806650
+  y: 49.017433
+  comment: Electrical substation
+
+Cluj Est:
+  x: 23.671284
+  y: 46.778832
+  comment: Near the train station Cluj-Napoca Est
+  
+Cluj Floresti:
+  x: 23.459961
+  y: 46.739890
+  comment: Electrical substation near to Floresti
+ 
+Conneforde:
+  x: 8.053005
+  y: 53.332525
+  comment: Electrical substation north of Conneforde
+  
+Conneforde O:
+  x: 8.053005
+  y: 53.332525
+  comment: Electrical substation north of Conneforde
+
+DOBROTWOR:
+  x: 24.387077
+  y: 50.205545
+  comment: Dobrotvir a city in Ukraine (in polish Dobrotwor)
+
+Daürsberg:
+  x: 7.863213
+  y: 50.767377
+  comment: Dauersberg transformer station  (Spelling error)
+
+Detk:
+  x: 20.107589
+  y: 47.773761
+  comment: Electrical substation near to power station Mátra
+  
+Diele:
+  x: 7.311716
+  y: 53.126130
+  comment: Electrical substation near to Diele DE
+
+Divaca:
+  x: 13.968825
+  y: 45.691287
+  comment: Electrical substation near to Divaca Slovenia
+  
+Djerdap:
+  x: 22.53651
+  y: 44.673441
+  comment: Electrical substation near to Iron Gate I Hydroelectric Power Station
+  
+Dobrudja:
+  x: 27.200118
+  y: 44.110039
+  comment: Electrical substation near to Dobrudja Bulgaria
+  
+Dobrzen:
+  x: 17.874304
+  y: 50.745841
+  comment: Electrical substation near to Opole Power Plant
+  
+Dörpen W:
+  x: 7.256018
+  y: 52.981963
+  comment: Electrical substation for offshore wind (Konverter Station Dörpen West)
+  
+Dreibein Mellach:
+  x: 15.484837
+  y: 46.908909
+  comment: Electrical substation near to Power Station Mellach
+  
+Dresden Süd:
+  x: 13.841615
+  y: 50.990035
+  comment: Electrical substation near to train station Dresden-Zschachwitz
+  
+Durnrohr:
+  x: 15.884607
+  y: 48.328263
+  comment: Electrical substation near to Dürnrohr AT
+  
+EEKLO NOORD:
+  x: 6.862864
+  y: 51.207298
+  comment: Electrical substation near to Krekelmuit
+  
+Eemshaven:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven Oost:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven Oude Schip:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Eemshaven het Hogeland:
+  x: 6.862864
+  y: 53.435661
+  comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
+  
+Emden Borssum:
+  x: 7.224262
+  y: 53.349967
+  comment: Electrical substation Emden
+  
+Emden O:
+  x: 7.207252
+  y: 53.341283
+  comment: Electrical substation near to Power Station Emden
+  
+Ernestinovo:
+  x: 18.663405
+  y: 45.473047
+  comment: Electrical substation connecting Croatia, Hungary, Serbia, Bosnia
+  
+Ertsmyra:
+  x: 6.754013
+  y: 58.669139
+  comment: Electrical substation in Norway connecting Germany with Norway (NordLink DC Cable)
+  
+Etzenricht:
+  x: 12.114281
+  y: 49.631450
+  comment: Electrical substation in Germany connecting Germany with Czechia
+  
+Frankfurt N:
+  x: 8.664841
+  y: 50.160869
+  comment: Electrical substations in Frankfurt not exactly determinable 
+
+Frankfurt SW:
+  x: 8.664841
+  y: 50.160869
+  comment: Electrical substations in Frankfurt not exactly determinable 
+  
+GALOREAUX LES:
+  x: -0.855275
+  y: 47.309829
+  comment: Electrical substations near to Coved Bourgneuf
+  
+GDANSK PRZYJAZN:
+  x: 18.385561
+  y: 54.306544
+  comment: Electrical substations
+  
+GDANSK-BLONI:
+  x: 18.708908
+  y: 54.338139
+  comment: Electrical substations
+ 
+GKMB:
+  x: 8.500120
+  y: 49.444399
+  comment: Electrical substations near to power station Grosskraftwerk Mannheim
+ 
+GKN2:
+  x: 9.177660
+  y: 49.037787
+  comment: Electrical substations near to nuclear power station Neckarwestheim
+  
+GREPILLES:
+  x: 4.116943
+  y: 46.083324
+  comment: Electrical substations near to Les Grepilles
+  
+Galceag:
+  x: 23.595041
+  y: 45.671580
+  comment: Electrical substations near to Galceag (Oasa) Hydroelectric Power Station
+
+Rimavska Sobota:
+  x: 20.04536283
+  y: 48.38207435
+
+Rohrsdorf:
+  x: 12.8132849	
+  y: 50.8574866
+
+Roman Nord:
+  x: 26.9262321		
+  y: 46.9607454
+
+Rosiori:
+  x: 23.2221316		
+  y: 47.7084204
+
+Ruethi:
+  x: 9.557225411		
+  y: 47.30330026
+
+S. Mitrovica:
+  x: 19.61304		
+  y: 45.01562
+
+S. Nova Ves:
+  x: 20.53388		
+  y: 48.96448
+
+Sanem:
+  x: 5.9850306	
+  y: 49.4959628
+
+SCHIFFLANGE:
+  x: 6.0118175	
+  y: 49.5062732
+
+SOTEL:
+  x: 5.947682388		
+  y: 49.50985368
+
+ST-MARD:
+  x: 5.5284511		
+  y: 49.5577562
+
+ST-Mard SNCB:
+  x: 5.5284511		
+  y: 49.5577562
+
+ST-VULBAS-OUEST:
+  x: 5.2596	
+  y: 45.7959
+
+Sajoivanka:
+  x: 20.5909
+  y: 48.2613
+
+Sala:
+  x: 17.92498
+  y: 48.18895
+
+Sandorfalva:
+  x: 20.12837
+  y: 46.30639
+
+Siersdorf:
+  x: 6.21604
+  y: 50.91247
+
+Slavetice: 
+  x: 16.1087102	
+  y: 49.1035997
+
+Sokolnice:
+  x: 49.11343
+  y: 16.69789
+
+Soverzene:
+  x: 46.20096
+  y: 12.30283
+
+Stendal West:
+  x: 52.56893
+  y: 11.72736
+
+Subotica:
+  x: 46.0394 
+  y: 19.7142
+
+Szombathely:
+  x: 47.23117
+  y: 16.67928
+
+T HAL-BYĆ:
+  x: 50.2039
+  y: 19.0844
+
+T JOA-LAG:
+  x: 50.6519
+  y: 19.2087
+
+TE Sisak:
+  x: 45.4537
+  y: 16.4143
+
+TRICASTIN-POSTE LE:
+  x: 44.3293
+  y: 4.7144
+
+Kühtai:
+  x: 11.01187
+  y: 47.21092
+  address: Kraftwerk Kühtai, Silz, 6183, Österreich
+  comment: TENNET line in DE, but actually in AT
+
+LEMESANY:
+  x: 21.26014
+  y: 48.85817
+  address: Elektrická stanica Lemešany, Jarková 13/6, Lipany, 082 71, Slovensko
+  comment: Tieline – Bus SKus SK
+
+LESQUIVE:
+  x: 1.27608
+  y: 43.8184
+  address: Poste électrique de Lesquive, Grisolles, 82170, France
+  comment: RTE line, Not really a town name
+
+LONNY:
+  x: 4.57778
+  y: 49.82142
+  address: Poste électrique de Lonny, Harcy, 08150, France
+  comment: Tieline – Bus in FR
+
+Leupolz:
+  x: 10.35887
+  y: 47.73892
+  address: Umspannanlage Leupolz, Lenzfrieder Straße 125, Kempten (Allgäu), 87437, Deutschland
+  comment: Tieline – Bus in DE
+
+Levice:
+  x: 18.60096
+  y: 48.22886
+  address: Levice, okres Levice, Nitriansky kraj, Západné Slovensko, Slovensko
+  comment: Tieline – Bus in SK
+
+Liskovec:
+  x: 18.31866
+  y: 49.71127
+  address: ČEPS 220/110 kV Electrical Substation Lískovec (LIS), Žabeň, 739 25 , Česko
+  comment: Tieline – Bus in CZ
+
+MAASBRACHT:
+  x: 5.91674
+  y: 51.14503
+  address: Maasbracht, Linnerweg 11, Maasbracht, 6051 KK, Nederland
+  comment: Tieline – Bus in NL
+
+MAMBELIN:
+  x: 6.665415
+  y: 47.368333
+  address: Poste électrique de Mambelin, Les Quares, Dambelin, 25150, France
+  comment: RTE line, Not really a town name
+
+MASTAING: 
+  x: 3.291276
+  y: 50.296262
+  address: Mastaing, Valenciennes, Nord, Hauts-de-France, France métropolitaine, 59172, France
+  comment: Tieline – Bus in FR
+
+MERSUR-SEINE:
+  x: 3.91361
+  y: 48.51667
+  address: Poste électrique de Méry-sur-Seine, Méry-sur-Seine, D7, Méry-sur-Seine, 10170, France
+  comment: Wrong name in the table, but correct in the original data MERY-SUR-SEINE
+
+MONTAGNLES-LANCHES:
+  x: 6.05569
+  y: 45.86396
+  address: Poste électrique de Montagny-Les Lanches, CR dit de la Fully, Montagny-Les Lanches,  74600, France
+  comment: Wrong name in the table, but correct in the original data MONTAGNY-LES-ANGLES
+
+MOULAINE:
+  x: 5.7926
+  y: 49.48253
+  address: Moulaine, Saint-Charles, Haucourt-Moulaine, Briey, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54860, France
+  comment: Tieline – Bus in FR
+
+Maribor:
+  x: 15.69251
+  y: 46.52299
+  address: Maribor, 2000, Slovenija
+  comment: Tieline – Bus in SI
+
+Mikulowa:
+  x: 15.11432
+  y: 51.08908
+  address: Stacja elektroenergetyczna „Mikułowa”, Mikułowa, 59-975, Polsko
+  comment: Tieline – Bus in PL
+
+Mukachevo:
+  x: 22.6388
+  y: 48.42149
+  address: Мукачеве-400, Semynovych, 89626, Україна
+  comment: Tieline – bus in UA
+
+NEMO CONVERTOR STATION:
+  x: 3.207471
+  y: 51.267331
+  address: Nemo Link Converter Station, Pathoekeweg 302, Brugge, 8000, België
+  comment: Tieline – Bus in BE
+
+NOSOVICE:
+  x: 18.434385
+  y: 49.668046
+  address: Nošovice, okres Frýdek-Místek, Moravskoslezský kraj, Moravskoslezsko, 73951, Česko
+  comment: Tieline – Bus in CZ
+
+Nadab: 
+  x: 21.52235
+  y: 46.46594
+  address: Nagyvárad-távvezeték alállomás, Nădab, Chișineu-Criș, Arad, 315101, România
+  comment: Tieline – Bus in RO
+
+L. Mara:
+  x: 19.48721
+  y: 49.08728
+  address: Liptovská Mara, Vlachy-Sokolče, 032 13, Slovensko
+  comment: Wrong assignment, because common name
+
+MAERLANT:
+  x: 3.31772
+  y: 51.22805
+  address: Van Maerlant, Sijseelsesteenweg, Damme, 8340, België
+  comment: Wrong assignment, because wrong name
+
+MENUEL:
+  x: -1.57765
+  y: 49.47623
+  address: Poste électrique de Menuel, L’Étang-Bertrand, 50260, France
+  comment: Just slightly off
+
+MILOSNA:
+  x: 21.28896
+  y: 52.22869
+  address: Stacja elektroenergetyczna "Miłosna", Sulejowek, 05-070 , Polonska
+  comment: Wrong assignment, because common name
+
+MOSZCZENICA:
+  x: 18.5654
+  y: 49.94059
+  address: Stacja elektroenergetyczna „Moszczenica”, Towarowa, 44-330 Jastrzębie-Zdrój, Polònia
+  comment: Wrong assignment, because common name
+
+Mayrhofen:
+  x: 11.8638664
+  y: 47.1672188
+  address: Schaltanlage Mayrhofen, Stumpfau, 6290 Mayrhofen, 6290, Tirol, Österreich
+  comment: Just slightly off
+
+Meeden:
+  x: 6.94509
+  y: 53.1259
+  address: Meeden, Wethouder L. Veemanweg 11, Meeden, 9651CN, Nederland
+  comment: Wrong assignment, because common name, Tieline – Bus in NL
+
+Meiningen:
+  x: 9.59153
+  y: 47.31735
+  address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
+  comment: Just slightly off
+
+Meiningen:
+  x: 9.59153
+  y: 47.31735
+  address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
+  comment: Wrong assignment, Tieline – Bus in AT
+
+Meissen: 
+  x: 8.96046
+  y: 52.27965
+  address: Umspannwerk Meißen, Grille, Minden, 32423, Deutchland
+  comment: Wrong assignment, because common name
+
+Krümmel:
+  x: 10.4523
+  y: 53.4164
+  address: Umspannwerk Krümmel, Langer Hals, 21502, Geesthacht, Deutschland
+  comment: Wrong assignment, because common name
+
+Kühmoos:
+  x: 7.9575
+  y: 47.5946
+  address: Lastverteilung/Schaltanlage Kühmoos, Kühmoos 1, Rickenbach, 79736, Deutschland
+  comment: Wrong assignment, because common name
+
+LAUNAY:
+  x: -1.2481
+  y: 48.56084
+  address: Poste électrique de Launay,Saint-Laurent-de-Terregatte, 50240, France
+  comment: Wrong assignment, because common name
+
+LE VAL:
+  x: 5.49527
+  y: 50.60467
+  address: Val, 4100 Seraing, België
+  comment: Wrong assignment, because not named
+
+LEVI:
+  x: 18.60343
+  y: 48.23313
+  address: Koháryho 2756/101, 934 01 Levice, Slovensko
+  comment: Wrong assignment, because common name
+
+LISKOWIEC:
+  x: 18.31949
+  y: 49.70284
+  address: ČEPS 220/110 kV Electrical Substation Lískovec (LIS), Žabeň, 739 25 , Česko
+  comment: Wrong assignment, Tieline – Bus in CZ
+
+LOMZA SYSTEMOWA:
+  x: 22.0521838178
+  y: 53.18243065
+  address: Stacja elektrenergetyczna 400kV "Łomża", Łomżyńska 71, Wygoda, 18-400, Polen
+  comment: Just slightly wrong
+
+LUBLIN:
+  x: 22.61731
+  y: 51.29567
+  address: SE 400/110kV Lublin Systemowa, Boduszyn, 21-003, Polska
+  comment: Just slightly wrong
+
+Lacu Sarat:
+  x: 27.88615
+  y: 45.21569
+  address: Lacu Sărat, 817026, România
+  comment: Wrong assignment, because common name
+
+Lelystad:
+  x: 5.55002
+  y: 52.57496
+  address: Lelystad, Ijsselmeerdijk 101, RC Lelystad, 8221, Nederland
+  comment: Just slightly wrong
+
+Lüdershagen:
+  x: 13.07765
+  y: 54.28592
+  address: Lüdershagen, Voigdehäger Weg, Stralsund, 18437, Deutschland
+  comment: Just slightly wrong
+
+MANDARINS:
+  x: 1.77935
+  y: 50.90052
+  address: Poste électrique des Mandarins, 9 Résidence les Mandarins, Bonningues-lès-Calais, 62340, France
+  comment: Wrong assignment, because common name
+
+MARCOURT:
+  x: 5.5509
+  y: 50.20951
+  address: Marcourt, Rue de la Résistance, Rendeux, 6987, België / Belgique / Belgien
+  comment: Just slightly wrong
+
+MARMAGNE:
+  x: 2.26341
+  y: 47.09637
+  address: Poste électrique de Marmagne, Saint Aubin, Marmagne,  18500, France
+  comment: Wrong assignment, because common name
+
+MARQUIS LE:
+  x: -0.55229
+  y: 45.00696
+  address: Poste électrique du Marquis, Chapelle d’Ambès,Ambès, 33810, France
+  comment: Wrong assignment, because common name
+
+MAZURES:
+  x: 4.63683
+  y: 49.9061
+  address: Poste électrique des Mazures, Le Huet Haut, Les Mazures,  08500, France
+  comment: Wrong assignment, because common name
+
+MERCATOR:
+  x: 4.24944
+  y: 51.15259
+  address: Mercator, Heirstraat, Kruibeke, 9150, België
+  comment: Wrong assignment, because common name
+
+MEZEROLLES:
+  x: 1.73922
+  y: 48.93283
+  address: Rue du Bois de la Planté, Guerville, 78930, France	
+  comment: Wrong assignment, because common name
+
+MOKRE:
+  x: 23.14877
+  y: 50.69717
+  address: Stacja elektroenergetyczna „Mokre”, Kolonia Druga, Zamość, 22-400, Polska
+  comment: Wrong assignment, because common name
+
+MOLIERE:
+  x: -0.30162
+  y: 47.87326
+  address: Poste électrique de Moliere, Juigné-sur-Sarthe, 72300, France
+  comment: Wrong assignment, because common name
+
+MONCEAU:
+  x: 4.36238
+  y: 50.39346
+  address: Monceau, Rue Massart, Monceau-sur-Sambre, 6031, België
+  comment: Wrong assignment, because common name
+
+MONT-SAINT-MARTIN:
+  x: 5.75702
+  y: 49.53897
+  address: Poste électrique du Mont Saint-Martin, Chemin des chênes, Mont-Saint-Martin, 54350, France
+  comment: Wrong assignment, Tieline – Bus in FR
+
+MORY:
+  x: 20.86899
+  y: 52.21578
+  address: Stacja elektroenergetyczna "Mory", Połczyńska 125, Warszawa,  01-303, Polska
+  comment: Wrong assignment, because common name
+
+MORZYCZYN:
+  x: 14.89474
+  y: 53.35361
+  address: Stacja elektroenergetyczna "Morzyczyn", Energetyków, Morzyczyn, 73-108, Polska
+  comment: Wrong assignment, because common name
+
+MOSCISKA:
+  x: 20.86903
+  y: 52.28808
+  address: Stacja elektroenergetyczna "Mościska", Energetyczna, Mościska, 05-080, Polsla
+  comment: Wrong assignment, because common name
+
+MT-SAINT-MARTIN:
+  x: 5.75702
+  y: 49.53897
+  address: Poste électrique du Mont Saint-Martin, Chemin des chênes, Mont-Saint-Martin, 54350, France
+  comment: Wrong assignment, because common name
+
+MUHLBACH:
+  x: 7.55589
+  y: 47.90518
+  address: Poste électrique de Muhlbach, Av. Koechlin, Fessenheim, 68740, France
+  comment: Just slightly wrong
+
+Malchow:
+  x: 13.50248
+  y: 52.58892
+  address: Umspannwerk Malchow, Malchower Chaussee 20, Berlin, 13051, Deutschland
+  comment: Wrong assignment, because common name
+
+Marbach:
+  x: 9.23716
+  y: 48.92475
+  address: Umspannwerk Marbach, Reinhold-Würth-Straße, Marbach am Neckar, 71672, Deutschland
+  comment: Wrong assignment, because common name
+
+Marienberg:
+  x: 12.13093
+  y: 47.91194
+  address: Marienberg, Mühlstätt, Schechen, 83135, Deutschland
+  comment: Wrong assignment, because common name
+
+Mariselu:
+  x: 23.18414
+  y: 46.70103
+  address: Mărișelu, Mărişel Roşeşti, 407390, România
+  comment: Wrong assignment, because common name
+
+Marke:
+  x: 12.26263
+  y: 51.73967
+  address: Umspannwerk Marke, Am Umspannwerk, Raguhn-Jeßnitz, 06779, Deutschland
+  comment: Wrong assignment, because common name
+
+Melina:
+  x: 14.5814405
+  y: 45.2796322
+  address: Melina, 79a, Bakarac, Grad Kraljevica, Primorsko-goranska županija, 51261, Hrvatska
+  comment: Wrong assignment, Tieline – Bus in HR
+
+Moldava:
+  x: 21.04487
+  y: 48.60187
+  address: Moldava, Čečejovce, 044 71, Slovensko
+  comment: Wrong assignment, because common name
+
+Mostar:
+  x: 17.7715
+  y: 43.30261
+  address: Mostar, R424, Čule, 88000, Bosna I Hercegovina
+  comment: Wrong assignment, Tieline – Bus in BA
+
+Munteni:
+  x: 27.72543
+  y: 46.62352
+  address: Stație electrică, Strada Podul Înalt 1, Vaslui, 730217, România
+  comment: Wrong assignment, because common name
+
+NAREW:
+  x: 23.04664
+  y: 53.02791
+  address: Stacja elektroenergetyczna „Narew”, Białostocka, Iwanówka, 18-106, Polska
+  comment: Wrong assignment, because common name
+
+LESNIOW:
+  x: 15.29275
+  y: 51.98746
+  address: Stacja elektroenergetyczna "Leśniów" 220/110 kV, Leśniów Wielki, 66-016 , Polsko
+  comment: Wrong assignment, because common name
+
+Mühlhausen:
+  x: 9.21491
+  y: 48.84973
+  address: Heidenburgstraße, Stuttgart, 70378, Deutschland
+  comment: Wrong assignment, because common name
