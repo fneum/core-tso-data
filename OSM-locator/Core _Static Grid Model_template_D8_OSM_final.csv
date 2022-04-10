@@ -1,0 +1,67 @@
+,x,y,OSM_id,OSM_name,OSM_voltage,OSM_operator,OSM_NUTS1,comment,comment 2
+Wustermark,12.9430406136,52.5625656454,27149550,Wustermark,380000,50Hertz Transmission GmbH;E.ON edis AG,brandenburg,,Duplicated OSM name: 27149550 940635545 
+Reuter,13.2490303428,52.531625101,43163132,Umspannwerk Reuter,380000;110000,50Hertz Transmission GmbH;Stromnetz Berlin GmbH,brandenburg,,
+Altenfeld,10.9914524743,50.5734466655,149256409,Umspannwerk Altenfeld,380000,50Hertz Transmission,thueringen,,
+Eisenach,10.3863463172,51.0021454751,948341123,Eisenach,380000,50Hertz,thueringen,,
+Wolmirstedt,11.6401668419,52.26899391,26472665,Umspannwerk Wolmirstedt,380000,50Hertz Transmission GmbH,sachsen-anhalt,,Duplicated OSM name: 26472665 943739676 
+Freiberg/Nord,13.2555550562,50.9301782675,109917397,Freiberg/Nord (380 kV),380000,50Hertz Transmission,sachsen,No 100% match: But correct,
+Marke,12.2616201713,51.740891643,946025110,Umspannwerk Marke,380000,50Hertz Transmission,sachsen-anhalt,,
+Görries,11.3705910347,53.6007153886,30040568,Umspannwerk Görries,380000,50Hertz Transmission;WEMAG,mecklenburg-vorpommern,,
+Preilack,14.4277195483,51.8892044687,941198517,Umspannwerk Preilack,380000,50Hertz Transmission,brandenburg,,
+Hamburg/Nord,9.9840587916,53.7414791124,22720647,Hamburg Nord,380000;220000,50Hertz Transmission,schleswig-holstein,,Duplicated OSM name: 22720647 28008024 
+Remptendorf - Großschwabhausen,11.6463683228,50.5348779958,128277645,Remptendorf,380000;220000;110000,50Hertz Transmission GmbH,thueringen,"No 100% match: Because actually two substations. Großschwabhausen is treated by core-tso as passing-by, hence we consider the second choice as correct: Remptendorf",
+Krümmel,10.4146823399,53.4125906359,23366603,Umspannwerk Krümmel,380000,50Hertz Transmission GmbH,schleswig-holstein,,
+Wolkramshausen,10.7346694506,51.440186791,157164284,Wolkramshausen,220000,50Hertz,thueringen,,
+Siedenbrünzow,13.143068659,53.9075468128,941453716,Siedenbrünzow,380000,50Hertz Transmission GmbH,mecklenburg-vorpommern,,
+Hagenwerder,14.9464820103,51.0625770657,59026005,Hagenwerder,380000;110000,50Hertz,sachsen,,
+Güstrow,12.18580203,53.8160283715,32062544,Umspannwerk Güstrow,220000,50Hertz Transmission,mecklenburg-vorpommern,,Duplicated OSM name: 32062544 940920901 942443697 
+Lüdershagen,13.0787291333,54.2845382204,946710698,Lüdershagen,220000,50Hertz Transmission GmbH;E.DIS Netz GmbH,mecklenburg-vorpommern,,
+Pasewalk,14.033684493,53.5075231046,943444232,Pasewalk,220000,50Hertz Transmission GmbH;E.ON edis AG,mecklenburg-vorpommern,,
+Perleberg - Putlitz,11.8523405111,53.0868548495,59707532,Umspannwerk Perleberg,380000;110000,50Hertz;EON_Avacon,brandenburg,"No 100% match: Because actually two substations. Putlitz is treated by core-tso as passing-by, hence we consider correct Perleberg",
+Klostermansfeld,11.5163247176,51.5839853619,32690742,Umspannwerk Klostermansfeld,380000,50Hertz Transmission,sachsen-anhalt,,
+Marzahn,13.5241131506,52.5357936785,22973070,Umspannwerk Marzahn,380000,50Hertz Transmission,brandenburg,,Duplicated OSM name: 22973070 940921737 
+Hamburg/Ost,10.1582042401,53.5554103315,23583867,Hamburg/Ost,380000,50Hertz Transmission,hamburg,,Duplicated OSM name: 23583867 23583867 
+Heinersdorf (Abzweig),14.1329451614,52.4430644609,414169327,Umspannwerk Heinersdorf,380000;110000,50Hertz Transmission;EON_edis,brandenburg,No 100% match: But correct,
+Thyrow,13.3063406959,52.2308206609,29331499,Umspannwerk Thyrow,220000,50Hertz Transmission,brandenburg,,Duplicated OSM name: 29331499 940470389 
+Friedrichshain,13.4564331339,52.5214579638,30954714,Friedrichshain,380000;110000,50Hertz Transmission GmbH;Stromnetz Berlin GmbH,brandenburg,,
+Ragow,13.9011283577,51.8761729182,940922557,Umspannwerk Ragow,380000,50Hertz Transmission GmbH,brandenburg,,
+Bentwisch,12.2135411148,54.1119820004,32318130,Bentwisch,220000;110000,E.DIS Netz GmbH,mecklenburg-vorpommern,,
+Wuhlheide,13.5061273352,52.4738256075,22973052,Umspannwerk Wuhlheide,220000;110000,50Hertz Transmission GmbH;Stromnetz Berlin GmbH,brandenburg,,
+Charlottenburg,13.3155159121,52.5219993946,46615737,Umspannwerk Charlottenburg,380000;110000,Stromnetz Berlin,brandenburg,,
+Wuhlheide (Abzweig),13.5061273352,52.4738256075,22973052,Umspannwerk Wuhlheide,220000;110000,50Hertz Transmission GmbH;Stromnetz Berlin GmbH,brandenburg,No 100% match: But correct,
+Teufelsbruch,13.211527686,52.5806278386,30132758,Umspannwerk Teufelsbruch,380000;110000,50Hertz Transmission GmbH,brandenburg,,
+Streumen,13.3833631774,51.3555898523,157328339,Streumen,380000,50Hertz Transmission GmbH,sachsen,,
+Altentreptow/Nord,13.3188040771,53.7366457099,515358077,Umspannwerk Altentreptow Nord,380000;33000,50Hertz Transmission GmbH,mecklenburg-vorpommern,,
+Wessin,11.6985976507,53.5713728213,234171369,Umspannwerk Wessin,380000,50Hertz Transmission GmbH,mecklenburg-vorpommern,,
+Parchim/Süd,11.9003859873,53.4071774299,517421342,Prachim/Süd,220000,50Hertz Transmission,mecklenburg-vorpommern,No 100% match: But correct,
+Mitte,13.3686534752,52.5031475107,30303506,Mitte,380000;110000,50Hertz Transmission GmbH;Stromnetz Berlin GmbH,brandenburg,,
+Perleberg,11.8523405111,53.0868548495,59707532,Umspannwerk Perleberg,380000;110000,50Hertz;EON_Avacon,brandenburg,,
+Jessen/Nord,13.0580252085,51.7998831567,398680313,Umspannwerk Jessen Nord (Schweinitz),380000/110000,50Hertz Transmission GmbH,sachsen-anhalt,No 100% match: Wrongly assing because of extra information in the OSM name. Changed to the second choice.,
+Bertikow,13.9570178736,53.2521759077,30039908,Umspannwerk Bertikow,220000;110000,50Hertz Transmission GmbH,brandenburg,,
+Gransee,13.2635203717,52.9940843593,518455594,Umspannwerk Gransee,380000,50Hertz Transmission GmbH,brandenburg,,
+Vieselbach,11.123246285,50.9983754522,143882655,Umspannwerk Vieselbach,380000,50Hertz Transmission GmbH,thueringen,,Duplicated OSM name: 143882655 947801636 
+Lubmin,13.6825895421,54.1389887787,460134233,Umspannwerk Lubmin,380000;220000;110000,50Hertz Transmission GmbH,mecklenburg-vorpommern,,
+Vierraden,14.2680688044,53.0980593881,170123812,Vierraden,380000,50Hertz Transmission,brandenburg,,
+Eisenhüttenstadt (Abzweig),14.6039381872,52.1748645494,52983550,Umspannwerk Eisenhüttenstadt,380000,50Hertz Transmission GmbH,brandenburg,No 100% match: But correct,
+Schmölln,14.21916814,51.1211909508,941805476,Schmölln,380000,50Hertz Transmission GmbH;ENSO,sachsen,,
+Weida,12.0454837407,50.7809440149,156673637,Umspannwerk Weida,220000,50Hertz Transmission,thueringen,,Duplicated OSM name: 156673637 945346148 
+Stendal/West,11.72750802,52.5686417742,33169401,Umspannwerk Stendal West,380000,50Hertz Transmission GmbH,sachsen-anhalt,,
+Heinersdorf,14.1329451614,52.4430644609,414169327,Umspannwerk Heinersdorf,380000;110000,50Hertz Transmission;EON_edis,brandenburg,,
+Remptendorf,11.6463683228,50.5348779958,128277645,Remptendorf,380000;220000;110000,50Hertz Transmission GmbH,thueringen,,
+Brunsbüttel,9.2016836039,53.8958146398,30622610,Umspannwerk Kernkraftwerk Brunsbüttel,380000;220000;110000,50Hertz Transmission,schleswig-holstein,,
+Eisenhüttenstadt,14.6039381872,52.1748645494,52983550,Umspannwerk Eisenhüttenstadt,380000,50Hertz Transmission GmbH,brandenburg,,
+Pulgar,12.3374229541,51.1969683641,442199284,Umspannwerk Pulgar,380000;110000,50 Hertz Transmission;Stadtwerke Leipzig,sachsen,,
+Altentreptow/Süd,13.1746843661,53.6236047321,947118608,Umspannwerk Altentreptow Süd,380000,50Hertz Transmission GmbH,mecklenburg-vorpommern,,
+Förderstedt,11.6440473816,51.9082735556,943939310,Umspannwerk Förderstedt,380000,50Hertz Transmission GmbH und Stadtwerke Staßfurt,sachsen-anhalt,,
+Hamburg/Süd,9.9088503961,53.4880485701,11285720,Hamburg/Süd,380000;110000,50Hertz Transmission;Stromnetz Hamburg GmbH,hamburg,,
+Neuenhagen,13.7101614664,52.5391265045,137197826,Umspannwerk Neuenhagen,380000,50Hertz Transmission GmbH,brandenburg,,Duplicated OSM name: 137197826 942448206 
+Dresden/Süd,13.8423188048,50.9894948505,942771541,Umspannwerk Dresden Süd,380000,50Hertz Transmission,sachsen,,
+Malchow,13.4955629842,52.5899266599,940636813,Umspannwerk Malchow,380000,50Hertz;Stromnetz Berlin,brandenburg,,
+Hennigsdorf,13.2062923734,52.6571924478,30309989,Hennigsdorf,220000,50Hertz Transmission,brandenburg,,
+Lauchstädt,11.8946096453,51.4065278166,29713902,Umspannwerk Lauchstädt,380000;110000,50Hertz Transmission,sachsen-anhalt,,
+Röhrsdorf,12.8150824799,50.8586894795,23117075,Umspannwerk Röhrsdorf,380000,50Hertz Transmission,sachsen,,Duplicated OSM name: 23117075 943135226 
+Eula,12.5169922279,51.1564006548,32843531,Umspannwerk Eula,220000,50Hertz Transmission,sachsen,,Duplicated OSM name: 32843531 946206351 
+Putlitz/Süd,12.1090952051,53.250822859,851299584,Umspannwerk Putlitz Süd,380000,50Hertz,brandenburg,,
+Schönewalde,13.1580042637,51.8283701563,28729619,Umspannwerk Schönewalde,380000,50Hertz Transmission GmbH,brandenburg,,Duplicated OSM name: 28729619 28729619 
+Graustein,14.4719205756,51.5541202371,30164703,Graustein,380000,50Hertz_Transmission;enviaM,brandenburg,,Duplicated OSM name: 30164703 30164703 
+Bärwalde,14.5081092265,51.4137104075,157806991,Bärwalde,380000,50Hertz,sachsen,,

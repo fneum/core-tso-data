@@ -2,14 +2,16 @@ source: www.jao.eu/download/archive/paragraph/545/field_attachments
 geocode: False
 regions:
   AT: AT
-  BE: BE
+  BE_Q4-2021_all_EIC_0: BE
   CZ: CZ
   D2: DE
   D4_0: DE
+  D7: DE
   D8: DE
   FR: FR
   HR: HR
   HU: HU
+  LU: LU
   NL: NL
   PL: PL
   RO: RO
