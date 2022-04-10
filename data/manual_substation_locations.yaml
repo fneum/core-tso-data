@@ -722,13 +722,7 @@ Meiningen:
   x: 9.59153
   y: 47.31735
   address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
-  comment: Just slightly off
-
-Meiningen:
-  x: 9.59153
-  y: 47.31735
-  address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
-  comment: Wrong assignment, Tieline – Bus in AT
+  comment: Just slightly off; Wrong assignment, Tieline – Bus in AT
 
 Meissen: 
   x: 8.96046
