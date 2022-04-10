@@ -1930,3 +1930,128 @@ Vogelgrun DE:
   x: 7.573913
   y: 48.019058
   comment: in France
+WANDA PL:
+  x: 19.4279041
+  y: 50.2005654
+  comment: no substation found
+WARANDE FR:
+  x: 2.163468
+  y: 50.949022
+WEPPES FR:
+  x: 2.896878
+  y: 50.644844
+WIELOPOLE PL:
+  x: 19.45501
+  y: 51.4126
+  comment: no substation found
+WROCLAW PL:
+  x: 16.883126
+  y: 51.003624
+WRZOSOWA PL:
+  x: 19.168244
+  y: 50.753528
+Waldeck DE:
+  x: 9.050444
+  y: 51.16685
+Walgau DE:
+  comment: no substation found
+Weier DE:
+  x: 7.911619
+  y: 48.5016
+Weingarten DE:
+  x: 8.309019
+  y: 49.257002
+Westerlee NL:
+  x: 4.221803
+  y: 51.982860
+Westtirol AT:
+  x: 10.8735124
+  y: 47.2425547
+Westtirol DE:
+  x: 10.8735124
+  y: 47.2425547
+  comment: Westtirol AT
+Wielopole CZ:
+  comment: not found, Wielopole PL?
+Wien HU:
+  comment: investigate
+Wien Südost AT:
+  x: 16.423269
+  y: 48.123541
+Daxlanden DE:
+  x: 8.314478
+  y: 49.008422
+Emden O DE:
+  x: 7.24876
+  y: 53.35504
+Erzhausen DE:
+  x: 9.92361
+  y: 51.89722
+Frankfurt SW DE:
+  x: 8.618693
+  y: 50.092486
+Kühmoos DE:
+  x: 7.959631
+  y: 47.595352
+Rhede DE:
+  x: 7.256151
+  y: 53.025732
+Simbach DE:
+  x: 13.00324295
+  y: 48.26214738
+
+YVELINES-OUEST FR:
+  x: 1.830297
+  y: 48.80381
+ZANDVLIET BE:
+  x: 4.249252
+  y: 51.369652
+ZARNOWIEC PL:
+  x: 19.86242
+  y: 50.4832713
+  comment: no substation found
+ZGIERZ PL:
+  x: 19.384505
+  y: 51.830644
+ZUKOWICE PL:
+  x: 16.00721
+  y: 51.66286
+ZYDOWO KIERZKOWO PL:
+  x: 16.731705
+  y: 54.042397
+ZYDOWO PL:
+  x: 16.710241
+  y: 54.0241
+Zahidno Ukrainska HU:
+  x: 24.25423
+  y: 49.38553
+  comment: in Ukraine
+Zandvliet NL:
+  x: 4.249252
+  y: 51.369652
+  comment: ZANDVLIET BE
+Zerjavinec HR:
+  x: 16.1650186
+  y: 45.8688625
+Zerjavinec HU:
+  x: 16.1650186
+  y: 45.8688625
+  comment: Zerjavinec HR
+Zerjavinec SI:
+  x: 16.1650186
+  y: 45.8688625
+  comment: Zerjavinec HR
+Zeyerveen NL:
+  x: 6.523704
+  y: 53.009374
+Zurndorf HU:
+  x: 16.993504006410205
+  y: 47.97572155
+  comment: Zurndorf AT
+Zwolle NL:
+  x: 6.189508
+  y: 52.530147
+d. Mostistea RO:
+  x: 26.2146
+  y: 44.3717
+  comment: guess
