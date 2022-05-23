@@ -283,17 +283,17 @@ Cluj Est:
   x: 23.671284
   y: 46.778832
   comment: Near the train station Cluj-Napoca Est
-  
+
 Cluj Floresti:
   x: 23.459961
   y: 46.739890
   comment: Electrical substation near to Floresti
- 
+
 Conneforde:
   x: 8.053005
   y: 53.332525
   comment: Electrical substation north of Conneforde
-  
+
 Conneforde O:
   x: 8.053005
   y: 53.332525
@@ -313,7 +313,7 @@ Detk:
   x: 20.107589
   y: 47.773761
   comment: Electrical substation near to power station Mátra
-  
+
 Diele:
   x: 7.311716
   y: 53.126130
@@ -323,132 +323,132 @@ Divaca:
   x: 13.968825
   y: 45.691287
   comment: Electrical substation near to Divaca Slovenia
-  
+
 Djerdap:
   x: 22.53651
   y: 44.673441
   comment: Electrical substation near to Iron Gate I Hydroelectric Power Station
-  
+
 Dobrudja:
   x: 27.200118
   y: 44.110039
   comment: Electrical substation near to Dobrudja Bulgaria
-  
+
 Dobrzen:
   x: 17.874304
   y: 50.745841
   comment: Electrical substation near to Opole Power Plant
-  
+
 Dörpen W:
   x: 7.256018
   y: 52.981963
   comment: Electrical substation for offshore wind (Konverter Station Dörpen West)
-  
+
 Dreibein Mellach:
   x: 15.484837
   y: 46.908909
   comment: Electrical substation near to Power Station Mellach
-  
+
 Dresden Süd:
   x: 13.841615
   y: 50.990035
   comment: Electrical substation near to train station Dresden-Zschachwitz
-  
+
 Durnrohr:
   x: 15.884607
   y: 48.328263
   comment: Electrical substation near to Dürnrohr AT
-  
+
 EEKLO NOORD:
   x: 6.862864
   y: 51.207298
   comment: Electrical substation near to Krekelmuit
-  
+
 Eemshaven:
   x: 6.862864
   y: 53.435661
   comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
-  
+
 Eemshaven Oost:
   x: 6.862864
   y: 53.435661
   comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
-  
+
 Eemshaven Oude Schip:
   x: 6.862864
   y: 53.435661
   comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
-  
+
 Eemshaven het Hogeland:
   x: 6.862864
   y: 53.435661
   comment: Electrical substation (Cobra Cable, DC to NO, Emshaven 220 kV and 380 kV)
-  
+
 Emden Borssum:
   x: 7.224262
   y: 53.349967
   comment: Electrical substation Emden
-  
+
 Emden O:
   x: 7.207252
   y: 53.341283
   comment: Electrical substation near to Power Station Emden
-  
+
 Ernestinovo:
   x: 18.663405
   y: 45.473047
   comment: Electrical substation connecting Croatia, Hungary, Serbia, Bosnia
-  
+
 Ertsmyra:
   x: 6.754013
   y: 58.669139
   comment: Electrical substation in Norway connecting Germany with Norway (NordLink DC Cable)
-  
+
 Etzenricht:
   x: 12.114281
   y: 49.631450
   comment: Electrical substation in Germany connecting Germany with Czechia
-  
+
 Frankfurt N:
   x: 8.664841
   y: 50.160869
-  comment: Electrical substations in Frankfurt not exactly determinable 
+  comment: Electrical substations in Frankfurt not exactly determinable
 
 Frankfurt SW:
   x: 8.664841
   y: 50.160869
-  comment: Electrical substations in Frankfurt not exactly determinable 
-  
+  comment: Electrical substations in Frankfurt not exactly determinable
+
 GALOREAUX LES:
   x: -0.855275
   y: 47.309829
   comment: Electrical substations near to Coved Bourgneuf
-  
+
 GDANSK PRZYJAZN:
   x: 18.385561
   y: 54.306544
   comment: Electrical substations
-  
+
 GDANSK-BLONI:
   x: 18.708908
   y: 54.338139
   comment: Electrical substations
- 
+
 GKMB:
   x: 8.500120
   y: 49.444399
   comment: Electrical substations near to power station Grosskraftwerk Mannheim
- 
+
 GKN2:
   x: 9.177660
   y: 49.037787
   comment: Electrical substations near to nuclear power station Neckarwestheim
-  
+
 GREPILLES:
   x: 4.116943
   y: 46.083324
   comment: Electrical substations near to Les Grepilles
-  
+
 Galceag:
   x: 23.595041
   y: 45.671580
@@ -459,51 +459,51 @@ Rimavska Sobota:
   y: 48.38207435
 
 Rohrsdorf:
-  x: 12.8132849	
+  x: 12.8132849
   y: 50.8574866
 
 Roman Nord:
-  x: 26.9262321		
+  x: 26.9262321
   y: 46.9607454
 
 Rosiori:
-  x: 23.2221316		
+  x: 23.2221316
   y: 47.7084204
 
 Ruethi:
-  x: 9.557225411		
+  x: 9.557225411
   y: 47.30330026
 
 S. Mitrovica:
-  x: 19.61304		
+  x: 19.61304
   y: 45.01562
 
 S. Nova Ves:
-  x: 20.53388		
+  x: 20.53388
   y: 48.96448
 
 Sanem:
-  x: 5.9850306	
+  x: 5.9850306
   y: 49.4959628
 
 SCHIFFLANGE:
-  x: 6.0118175	
+  x: 6.0118175
   y: 49.5062732
 
 SOTEL:
-  x: 5.947682388		
+  x: 5.947682388
   y: 49.50985368
 
 ST-MARD:
-  x: 5.5284511		
+  x: 5.5284511
   y: 49.5577562
 
 ST-Mard SNCB:
-  x: 5.5284511		
+  x: 5.5284511
   y: 49.5577562
 
 ST-VULBAS-OUEST:
-  x: 5.2596	
+  x: 5.2596
   y: 45.7959
 
 Sajoivanka:
@@ -522,8 +522,8 @@ Siersdorf:
   x: 6.21604
   y: 50.91247
 
-Slavetice: 
-  x: 16.1087102	
+Slavetice:
+  x: 16.1087102
   y: 49.1035997
 
 Sokolnice:
@@ -539,7 +539,7 @@ Stendal West:
   y: 11.72736
 
 Subotica:
-  x: 46.0394 
+  x: 46.0394
   y: 19.7142
 
 Szombathely:
@@ -616,7 +616,7 @@ MAMBELIN:
   address: Poste électrique de Mambelin, Les Quares, Dambelin, 25150, France
   comment: RTE line, Not really a town name
 
-MASTAING: 
+MASTAING:
   x: 3.291276
   y: 50.296262
   address: Mastaing, Valenciennes, Nord, Hauts-de-France, France métropolitaine, 59172, France
@@ -670,7 +670,7 @@ NOSOVICE:
   address: Nošovice, okres Frýdek-Místek, Moravskoslezský kraj, Moravskoslezsko, 73951, Česko
   comment: Tieline – Bus in CZ
 
-Nadab: 
+Nadab:
   x: 21.52235
   y: 46.46594
   address: Nagyvárad-távvezeték alállomás, Nădab, Chișineu-Criș, Arad, 315101, România
@@ -724,7 +724,7 @@ Meiningen:
   address: Umspannwerk Meiningen, Lutta 6812, Meiningen, 6812, Österreich
   comment: Just slightly off; Wrong assignment, Tieline – Bus in AT
 
-Meissen: 
+Meissen:
   x: 8.96046
   y: 52.27965
   address: Umspannwerk Meißen, Grille, Minden, 32423, Deutchland
@@ -835,7 +835,7 @@ MERCATOR:
 MEZEROLLES:
   x: 1.73922
   y: 48.93283
-  address: Rue du Bois de la Planté, Guerville, 78930, France	
+  address: Rue du Bois de la Planté, Guerville, 78930, France
   comment: Wrong assignment, because common name
 
 MOKRE:
@@ -1391,23 +1391,23 @@ ADAMOW PL:
 AFTAKKING BUGGENHOUT 380k V BE:
      x: 4.2305022
      y: 51.0228458
-     comment: Y Connection, not a substation 
+     comment: Y Connection, not a substation
 AFTAKKING LIEFKENSHOEK 380k V BE:
      x: 4.2949
      y: 51.2917
-     comment: Y Connection, not a substation 
+     comment: Y Connection, not a substation
 AFTAKKING MEKINGEN 380k V BE:
      x: 4.2201958
      y:  50.7567046
-     comment: Y Connection, not a substation 
+     comment: Y Connection, not a substation
 AFTAKKING RODENHUIZE 380k V BE:
      x: 3.7804502
      y: 51.1327222
-     comment: Y Connection, not a substation  
+     comment: Y Connection, not a substation
 AFTAKKING ZUTTENDAAL 380k V BE:
      x: 5.5434566
      y: 50.9077343
-     comment: Y Connection, not a substation 
+     comment: Y Connection, not a substation
 AGASSES LES FR:
      x: 4.66033
      y: 43.88517
@@ -1546,13 +1546,13 @@ BARNABOS FR:
 BASTOGNE BE:
      x: 5.6868623
      y: 49.9998160
-     comment: weird topology 
+     comment: weird topology
 BAYET FR:
      x: 3.29454
      y: 46.27333
 BEAUMONT-MONTEUX FR:
      x: 4.92759
-     y: 45.01918 
+     y: 45.01918
 BELVAL BE:
      x: 5.94947
      y: 49.51017
@@ -1571,10 +1571,10 @@ BIERUN PL:
      y: 50.08626
 BLACHOWNIA PL:
      x: 18.29404
-     y: 50.35926 
+     y: 50.35926
 BOCTOIS FR:
-     x: 3.51126 
-     y: 48.51887 
+     x: 3.51126
+     y: 48.51887
 BOGUCHWALA PL:
      x: 21.93292
      y: 49.99411
@@ -1608,7 +1608,7 @@ BRUME BE:
 BRUME SNCB BE:
      x: 5.84248
      y: 50.37581
-     comment: Train-System Node at BRUME 
+     comment: Train-System Node at BRUME
 BUJAKOW PL:
      x: 19.21231
      y: 49.84254

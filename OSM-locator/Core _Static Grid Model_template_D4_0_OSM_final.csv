@@ -5,7 +5,7 @@ Voehringen,10.082157402,48.2660901729,85523877,Vöhringen Amprion,380000,Amprion
 Philippsburg,8.4409458339,49.2502202677,48057110,Philippsburg,380000,Transnet BW GmbH,baden-wuerttemberg,,
 Wendlingen,9.4005818333,48.6669673874,26260052,Umspannwerk Wendlingen,380000;220000;110000,TransnetBW GmbH,baden-wuerttemberg,,
 Wiesloch,8.6737173596,49.2904394068,46584363,Umspannwerk Wiesloch,380000;220000;110000,EnBW,baden-wuerttemberg,,
-GKMB,8.5018085814,49.4449115469,163093653,GKMB,220000;110000,,baden-wuerttemberg,,Duplicated OSM name: 163093653 163093653 
+GKMB,8.5018085814,49.4449115469,163093653,GKMB,220000;110000,,baden-wuerttemberg,,Duplicated OSM name: 163093653 163093653
 Heidelberg,8.6637851962,49.3600842611,156676050,Heidelberg-Süd,220000;110000,Stadtwerke Heidelberg Netze GmbH,baden-wuerttemberg,No 100% match: But correct,
 Dellmensingen,9.8855088715,48.3040696725,41389594,Dellmensingen,380000;220000;110000,Netze BW GmbH;TransnetBW GmbH,baden-wuerttemberg,,
 Bruchsal/Kaendelweg,8.5621436338,49.1329303973,254326606,Umspannwerk Bruchsal-Kändelweg,380000;110000,Netze BW GmbH;TransnetBW GmbH,baden-wuerttemberg,,
@@ -14,7 +14,7 @@ Heilbronn,9.2088338635,49.1742319593,1038821599,Heilbronn,380000,Transnet BW Gmb
 Y-Hueffenhardt,9.0918353326,49.2946188318,143903369,Umspannwerk Hüffenhardt,380000;220000;110000,,baden-wuerttemberg,,
 Y-Hoheneck,9.1907926775,48.914415087,25802269,Amprion Umspannwerk Hoheneck,380000;220000;110000,Amprion GmbH,baden-wuerttemberg,,
 Y-Buehl,8.120596018,48.7053687516,39011884,Umspannwerk Bühl,220000;110000,TransnetBW GmbH,baden-wuerttemberg,,
-GKN2,9.1773111604,49.0393782259,153328698,Gemeinschaftskraftwerk Neckarwestheim 2 (GKN2),380000,,baden-wuerttemberg,No 100% match: Because core-tso uses only acronym. Corrected.,Duplicated OSM name: 163093653 163093653 
+GKN2,9.1773111604,49.0393782259,153328698,Gemeinschaftskraftwerk Neckarwestheim 2 (GKN2),380000,,baden-wuerttemberg,No 100% match: Because core-tso uses only acronym. Corrected.,Duplicated OSM name: 163093653 163093653
 Altbach,9.3709192803,48.7191280063,37721677,Umspannwerk Altbach 1,380000;110000,Netze BW,baden-wuerttemberg,No 100% match: But correct,
 Karlsruhe,8.4516163672,49.0073965256,32725958,Umspannwerk Karlsruhe Ost,220000;110000,TransnetBW GmbH,baden-wuerttemberg,No 100% match: Because core-tso misses specification. But correct as Karlsruhe Ost,
 Y-Altlussheim,8.5120992819,49.2940001929,154729020,Umspannwerk Altlußheim,220000;110000,TransnetBW GmbH;Netze BW GmbH,baden-wuerttemberg,,
@@ -48,7 +48,7 @@ Stalldorf,9.9444796928,49.5783378704,31653753,Umspannwerk Stalldorf,380000;11000
 Grossgartach,9.1515749008,49.1436221178,25557397,Umspannwerk Großgartach,380000;220000;110000,TransnetBW GmbH,baden-wuerttemberg,,
 Trossingen,8.6166466657,48.0659763726,35954395,Umspannwerk Trossingen,380000;110000,TransnetBW GmbH,baden-wuerttemberg,,
 Weinheim,8.6269714521,49.5436011167,160929097,Umspannwerk Weinheim,220000;110000,,baden-wuerttemberg,,
-Obermooweiler,9.8013172023,47.6525043611,31131320,Obermooweiler,380000,Transnet BW,baden-wuerttemberg,,Duplicated OSM name: 31131320 31131320 
+Obermooweiler,9.8013172023,47.6525043611,31131320,Obermooweiler,380000,Transnet BW,baden-wuerttemberg,,Duplicated OSM name: 31131320 31131320
 KarlsruheWest,8.3491261492,49.013052156,32731290,Karlsruhe-West,220000;110000,Stadtwerke Karlsruhe GmbH,baden-wuerttemberg,No 100% match: But correct,
 Buehl,8.120596018,48.7053687516,39011884,Umspannwerk Bühl,220000;110000,TransnetBW GmbH,baden-wuerttemberg,,
 Maximiliansau,8.273277878,49.0293946651,276249131,Umspannwerk Maximiliansau,220000;110000,Pfalzwerke AG;Amprion GmbH,rheinland-pfalz,,
