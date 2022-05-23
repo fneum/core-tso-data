@@ -58,7 +58,7 @@ See [./OSM-locator](./OSM-locator).
 - Over 95% are already well allocated and the rest is easy to correct
 - Updating the OSM is the most time consuming step, but is easy to do and worth it for the community
 - In OSM sometimes there is more than one substation with the same name: Just take the first one (for now)
-- A 100 % match of the names is impossible (more fancy fuzzywuzzy functions were tested), but the manual adjustments is minimal 
+- A 100 % match of the names is impossible (more fancy fuzzywuzzy functions were tested), but the manual adjustments is minimal
 - The missing data from other countries and Tie Lines and Trafos, could be allocated later
 
 ### Convert locator results pd.DataFrame to YAML

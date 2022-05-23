@@ -3,6 +3,7 @@
 import pypsa
 from pathlib import Path
 
+
 def mock_snakemake(rulename, **wildcards):
     """
     This function is expected to be executed from the 'scripts'-directory of '
@@ -23,8 +24,9 @@ def mock_snakemake(rulename, **wildcards):
     from snakemake.script import Snakemake
 
     script_dir = Path(__file__).parent.resolve()
-    assert Path.cwd().resolve() == script_dir, \
-      f'mock_snakemake has to be run from the repository scripts directory {script_dir}'
+    assert (
+        Path.cwd().resolve() == script_dir
+    ), f"mock_snakemake has to be run from the repository scripts directory {script_dir}"
     os.chdir(script_dir.parent)
     for p in sm.SNAKEFILE_CHOICES:
         if os.path.exists(p):
@@ -44,9 +46,18 @@ def mock_snakemake(rulename, **wildcards):
                 io[i] = os.path.abspath(io[i])
 
     make_accessable(job.input, job.output, job.log)
-    snakemake = Snakemake(job.input, job.output, job.params, job.wildcards,
-                          job.threads, job.resources, job.log,
-                          job.dag.workflow.config, job.rule.name, None,)
+    snakemake = Snakemake(
+        job.input,
+        job.output,
+        job.params,
+        job.wildcards,
+        job.threads,
+        job.resources,
+        job.log,
+        job.dag.workflow.config,
+        job.rule.name,
+        None,
+    )
     # create log and output dir if not existent
     for path in list(snakemake.log) + list(snakemake.output):
         Path(path).parent.mkdir(parents=True, exist_ok=True)

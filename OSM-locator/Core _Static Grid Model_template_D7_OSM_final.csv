@@ -24,7 +24,7 @@ Y-St. Peter,6.8019019262,51.1249315431,49577401,Station Sankt Peter 220 kV,22000
 Frankfurt,8.6184960942,50.0923124569,62061952,Umspannwerk Frankfurt Südwest,380000,,hessen,No 100% match: Because unspecified name. Changed into the second choice: Frankfurt Südwest,
 Y-Homburg,7.3192858059,49.3048178244,156402422,Homburg,220000;110000,Amprion,saarland,,
 Lippborg,7.98117823,51.6735476578,42488855,Station Lippborg,380000;110000,Amprion,nordrhein-westfalen,,
-Osterath,6.6258290044,51.2606112981,24799890,Station Osterath,220000;110000,RWE,nordrhein-westfalen,,Duplicated OSM name: 24799890 77179271 
+Osterath,6.6258290044,51.2606112981,24799890,Station Osterath,220000;110000,RWE,nordrhein-westfalen,,Duplicated OSM name: 24799890 77179271
 Guetersloh,8.3642296041,51.927122431,26383042,Gütersloh,380000;220000;110000;10000,Amprion;Westnetz,nordrhein-westfalen,,
 Meppen,7.2771539591,52.7532426189,206289192,Meppen,380000;110000,TenneT,niedersachsen,,
 Brauweiler,6.8045902907,50.9662511006,23084554,Umspannanlage Brauweiler,380000;220000;110000,RWE,nordrhein-westfalen,,
@@ -70,7 +70,7 @@ Geithe,7.9307447551,51.6729752133,112695048,Geithe,380000,Trianel,nordrhein-west
 Benteler,7.3178499804,52.4691115223,118928165,Benteler Stahlwerk,220000,,niedersachsen,No 100% match: Changed to second option because in OSM adds stahlwerk,
 Weissenthurm,7.4494891471,50.4025303264,395847307,Station Weißenthurm,380000;220000;110000,Amprion,rheinland-pfalz,,
 Urberach,8.7722750347,49.9745743409,23284340,Umspannwerk Urberach,380000;220000;110000,Amprion,hessen,,
-Dettingen,8.9895073687,50.060279807,42372159,Umspannwerk Dettingen,380000;110000,Amprion,bayern,,Duplicated OSM name: 42372159 42372159 
+Dettingen,8.9895073687,50.060279807,42372159,Umspannwerk Dettingen,380000;110000,Amprion,bayern,,Duplicated OSM name: 42372159 42372159
 Y-Edelstahl,6.542408467,51.2994458474,93278553,Station Edelstahl Krefeld,220000;110000,,nordrhein-westfalen,No 100% match: But correct,
 Y-Lippborg,7.98117823,51.6735476578,42488855,Station Lippborg,380000;110000,Amprion,nordrhein-westfalen,,
 Y-Diefflen,6.7555234374,49.3648696245,82310607,Dieffeln,220000,VSE,saarland,No 100% match: But correct,
@@ -84,7 +84,7 @@ Y-Garenfeld,7.5059715639,51.4016053588,24667346,Garenfeld,220000;110000,ENERVIE 
 Wengerrohr,6.9201614214,49.9705861872,66764943,Station Wengerohr,220000;110000,Amprion; Westnetz,rheinland-pfalz,No 100% match: But correct,
 Y-Stockem,7.0958227411,50.8268889617,22796434,Station Stockem,220000;110000,Westnetz,nordrhein-westfalen,,
 Garenfeld,7.5059715639,51.4016053588,24667346,Garenfeld,220000;110000,ENERVIE Vernetzt GmbH,nordrhein-westfalen,,
-Westerkappeln,7.8903860642,52.2779404152,114319248,Station Westerkappeln,380000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 114319248 954305865 
+Westerkappeln,7.8903860642,52.2779404152,114319248,Station Westerkappeln,380000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 114319248 954305865
 Grosskrotzenburg,8.9587085913,50.0826077918,42410916,Großkrotzenburg,380000;220000,TenneT TSO GmbH,hessen,,
 Buescherhof,6.9267589893,51.4992056967,24921206,Station Büscherhof,380000;220000,RWE,nordrhein-westfalen,,
 Lippe,7.4033769812,51.6444620362,121199242,Station Lippe,380000,RWE,nordrhein-westfalen,,
@@ -98,7 +98,7 @@ Maximiliansau,8.273277878,49.0293946651,276249131,Umspannwerk Maximiliansau,2200
 Y-Herbertingen,9.4253440768,48.0644397251,25306752,Umspannwerk Herbertingen,380000;220000;110000,EnBW,baden-wuerttemberg,,
 Twistetal,8.9927924478,51.3430094058,41232144,Umspannwerk Twistetal,380000;110000,TenneT,hessen,,
 Limburg,8.0657943501,50.4064688979,50898216,Station Limburg,380000;110000,Amprion;Süwag,hessen,,
-Bechterdissen,8.6596100125,52.0003485738,24264701,Bechterdissen,220000;110000,TenneT TSO GmbH,nordrhein-westfalen,,Duplicated OSM name: 24264701 957746797 
+Bechterdissen,8.6596100125,52.0003485738,24264701,Bechterdissen,220000;110000,TenneT TSO GmbH,nordrhein-westfalen,,Duplicated OSM name: 24264701 957746797
 Kruckel,7.4170468086,51.4572218319,22964137,Station Kruckel,380000;220000;110000,Amprion;Westnetz,nordrhein-westfalen,,
 Rheinau,8.547160874,49.4405397302,152973139,Station Rheinau,220000;110000,Net,baden-wuerttemberg,,
 Niederstedem,6.4750629827,49.9226087855,151967290,Station Niederstedem,380000;220000;110000,Amprion; Westnetz,rheinland-pfalz,,
@@ -127,19 +127,19 @@ Pfungstadt,8.5885964316,49.8156337221,147521567,Umspannanlage Pfungstadt,220000;
 Buers,9.810985,47.142966,101997887,Umspannwerk Bürs,380000;220000,Vorarlberger Illwerke AG,,No 100% match: In Austria,
 Oechtel,7.2785893486,52.3194222551,796306640,Öchtel,380000,Amprion,niedersachsen,,
 Y-Oechtel,7.2785893486,52.3194222551,796306640,Öchtel,380000,Amprion,niedersachsen,,
-Y-Gersteinwerk,7.7090387391,51.6764667192,42507488,Station Gersteinwerk,220000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 42507488 952594482 
+Y-Gersteinwerk,7.7090387391,51.6764667192,42507488,Station Gersteinwerk,220000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 42507488 952594482
 Utfort,6.617199413,51.4758372811,23380800,Station Utfort,380000;220000;110000,Amprion,nordrhein-westfalen,,
 Y-Bidingen,10.7027328079,47.8264605398,77038371,Umspannwerk Bidingen,380000;110000,LEW,bayern,,
 Laer,7.2788605199,51.4722322572,66038431,Station Laer,220000;110000,Amprion,nordrhein-westfalen,,
 Y-Ohligs,7.0087384303,51.1741796702,106096507,Station Ohligs,380000;110000,Amprion;Westnetz,nordrhein-westfalen,,
 St. Barbara,7.2403747723,49.3576497644,89352550,Schaltanlage St. Barbara,380000;220000;110000,Amprion / STEAG,saarland,,
-Y-Osterath,6.6258290044,51.2606112981,24799890,Station Osterath,220000;110000,RWE,nordrhein-westfalen,,Duplicated OSM name: 24799890 77179271 
+Y-Osterath,6.6258290044,51.2606112981,24799890,Station Osterath,220000;110000,RWE,nordrhein-westfalen,,Duplicated OSM name: 24799890 77179271
 Y-Poeppinghausen,7.2640789454,51.5735748426,28452784,Station Pöppinghausen,220000;110000,Amprion,nordrhein-westfalen,,
 Bergmannsglueck,7.0376199411,51.5985496442,22944791,Station Bergmannsglück,220000;110000,RWE,nordrhein-westfalen,,
 Y-Setzer Wiese,8.0202903939,50.92361693,90148336,Setzer Wiese,220000,RWE,nordrhein-westfalen,,
 Bischofsheim,8.3896186292,49.982479346,24685992,Umspannstation Bischofsheim,380000;110000,RWE;Kraftwerke Mainz-Wiesbaden,hessen,No 100% match: But correct,
 Walsum,6.7151974722,51.5268080534,24478889,Station Walsum,220000;110000,Amprion,nordrhein-westfalen,,
-Gersteinwerk,7.7090387391,51.6764667192,42507488,Station Gersteinwerk,220000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 42507488 952594482 
+Gersteinwerk,7.7090387391,51.6764667192,42507488,Station Gersteinwerk,220000,Amprion,nordrhein-westfalen,,Duplicated OSM name: 42507488 952594482
 Elmenhorst,7.4450693497,51.6185001152,24415232,Station Elmenhorst,220000;110000,Amprion,nordrhein-westfalen,,
 Kelsterbach,8.5315213761,50.0478870454,169244940,Station Kelsterbach,380000,Amprion,hessen,,
 Opladen,6.9655337425,51.0699360193,22761839,Station Opladen,380000;220000;110000,RWE,nordrhein-westfalen,,
@@ -175,7 +175,7 @@ Otterbach,7.7290275305,49.4827526933,152107815,Otterbach,220000;110000,Amprion,r
 Eller,6.8469968794,51.2055680613,23140544,Station Eller,220000;110000,Amprion,nordrhein-westfalen,,
 Y-Kusenhorst,7.0602217221,51.6963974774,29077623,Umspannwerk Kusenhorst,380000;220000;110000,Amprion;Westnetz,nordrhein-westfalen,,
 Bauler,6.21102035,49.95862578,89176939,SA Bauler,220000,Amprion,rheinland-pfalz,No 100% match: But correct,
-Gronau,7.0349486339,52.2029965351,952346321,Station Gronau,220000,,nordrhein-westfalen,,Duplicated OSM name: 952346321 952346322 
+Gronau,7.0349486339,52.2029965351,952346321,Station Gronau,220000,,nordrhein-westfalen,,Duplicated OSM name: 952346321 952346322
 Luestringen,8.1046390549,52.2651043343,37764852,Lüstringen,380000;220000;110000,Amprion;Westnetz,niedersachsen,,
 Ruhrzink,7.3242027695,51.6213074792,787840119,Ruhrzink,220000,Amprion GmbH,nordrhein-westfalen,,
 Mengede,7.3530196724,51.5758211424,32472806,Station Mengede,380000,RWE,nordrhein-westfalen,,

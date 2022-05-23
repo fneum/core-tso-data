@@ -4,8 +4,8 @@ Hamburg/S,9.9088503961,53.4880485701,11285720,Hamburg/Süd,380000;110000,50Hertz
 Guetersloh,8.3642296041,51.927122431,26383042,Gütersloh,380000;220000;110000;10000,Amprion;Westnetz,nordrhein-westfalen,,
 Heide/W,9.0511832419,54.1621874258,603661085,Umspannwerk Heide-West,380000;110000,TenneT TSO GmbH,schleswig-holstein,,
 Grohnde,9.3901753062,52.026686891,24413992,Grohnde,380000,TenneT,niedersachsen,,
-Wolmirstedt,11.6401668419,52.26899391,26472665,Umspannwerk Wolmirstedt,380000,50Hertz Transmission GmbH,sachsen-anhalt,,Duplicated OSM name: 26472665 943739676 
-Y-Plattling,12.853318031,48.7650856948,78441545,Umspannwerk Plattling,380000;110000,TenneT TSO GmbH,bayern,,Duplicated OSM name: 78441545 78441561 
+Wolmirstedt,11.6401668419,52.26899391,26472665,Umspannwerk Wolmirstedt,380000,50Hertz Transmission GmbH,sachsen-anhalt,,Duplicated OSM name: 26472665 943739676
+Y-Plattling,12.853318031,48.7650856948,78441545,Umspannwerk Plattling,380000;110000,TenneT TSO GmbH,bayern,,Duplicated OSM name: 78441545 78441561
 Doerpen/W,7.2562502637,52.9814586187,142487746,Dörpen West,380000;320000,TenneT Offshore GmbH,niedersachsen,,
 Wuergau,11.106734239,49.9790817216,24757393,Umspannwerk Würgau,380000,TenneT TSO GmbH,bayern,,
 Diele,7.3113634649,53.1257663067,177829920,Diele,380000;150000;110000,TenneT;Avacon Netz GmbH,niedersachsen,,
@@ -28,7 +28,7 @@ Grafenrheinfeld,10.1878834527,49.9812264739,108797675,Grafenrheinfeld,380000,,ba
 Pleinting,13.1031707986,48.6668221435,24976300,Umspannwerk Pleinting,380000;220000;110000,"TenneT TSO GmbH, E.ON Netz GmbH",bayern,,
 Helmstedt,10.9993330708,52.2001420146,26474759,Umspannwerk Helmstedt,380000;110000,TenneT TSO GmbH,niedersachsen,,
 Siems,10.7608353273,53.9097453655,74893662,Umspannwerk Siems,380000;220000;110000,TenneT TSO GmbH,schleswig-holstein,,
-Plattling,12.853318031,48.7650856948,78441545,Umspannwerk Plattling,380000;110000,TenneT TSO GmbH,bayern,,Duplicated OSM name: 78441545 78441561 
+Plattling,12.853318031,48.7650856948,78441545,Umspannwerk Plattling,380000;110000,TenneT TSO GmbH,bayern,,Duplicated OSM name: 78441545 78441561
 Klein Ilsede,10.2358631898,52.2934595701,24272339,Klein Ilsede,380000;110000,TenneT TSO GmbH;Avacon Netz GmbH,niedersachsen,,
 Hanekenfaehr,7.3082416627,52.4767911212,61918154,Hanekenfähr,380000;220000;110000,Amprion,niedersachsen,,
 Unterweser,8.474707084,53.4286512071,32076853,Unterweser,380000;220000;110000,Avacon Netz GmbH,niedersachsen,"Multiple matches: Accept the first, second is a power plant",
@@ -37,7 +37,7 @@ Brokdorf,9.3440018146,53.8517774968,87722999,Brokdorf,380000;220000,TenneT,schle
 Lage,8.8140077254,51.9834383259,288305056,Lage,220000;110000,,nordrhein-westfalen,,
 Hallendorf,10.4203895044,52.1652003797,97857512,Umspannwerk Hallendorf,220000;110000,TenneT TSO GmbH,niedersachsen,,
 Stalldorf,9.9444796928,49.5783378704,31653753,Umspannwerk Stalldorf,380000;110000,,bayern,,
-Farge,8.5155505931,53.2038907959,266684854,Farge,380000,TenneT TSO GmbH,bremen,,Duplicated OSM name: 266684854 266684854 
+Farge,8.5155505931,53.2038907959,266684854,Farge,380000,TenneT TSO GmbH,bremen,,Duplicated OSM name: 266684854 266684854
 Husum/N,9.0785572375,54.5106695282,542946547,UW Husum Nord,380000;110000,TenneT TSO GmbH;Schleswig-Holstein Netz AG,schleswig-holstein,,
 Inhausen,8.060057023,53.62020262,29420322,Inhausen,220000;155000,TenneT,niedersachsen,,
 Meitingen,10.8675670753,48.5394554752,24652261,Station Meitingen,380000,Net,bayern,"Multiple matches: Accept the first (station), the secons is umspannwerk",
@@ -46,7 +46,7 @@ Voerden,9.2281113259,51.8124540036,42681484,Vörden,380000;110000,TenneT TSO Gmb
 Kuehtai,11.00573,47.20774,758728343,Kühtai,220000,TenneT TSO GmbH,,"No 100% match: Because in Austria, manually added",
 Doernigheim,8.8730066635,50.1308545864,23881272,Dörnigheim 220 kV,220000;110000,TenneT TSO GmbH,hessen,,
 Huntorf,8.4089697232,53.1902453545,42872354,Huntorf,220000,EON_Netz,niedersachsen,,
-Dettingen,8.9895073687,50.060279807,42372159,Umspannwerk Dettingen,380000;110000,Amprion,bayern,,Duplicated OSM name: 42372159 42372159 
+Dettingen,8.9895073687,50.060279807,42372159,Umspannwerk Dettingen,380000;110000,Amprion,bayern,,Duplicated OSM name: 42372159 42372159
 Elsen,8.7022184871,51.7363526009,25943440,Elsen,380000;110000,TenneT,nordrhein-westfalen,,
 Twistetal,8.9927924478,51.3430094058,41232144,Umspannwerk Twistetal,380000;110000,TenneT,hessen,,
 Ottenhofen,11.8681563623,48.2068029398,26245195,Umspannwerk Ottenhofen,380000;220000,TenneT TSO GmbH,bayern,,
@@ -62,11 +62,11 @@ Oberhaid,10.8360157937,49.9280674263,24757833,Umspannwerk Oberhaid,380000,TenneT
 Alfstedt,9.0688137984,53.5666351362,31927411,Alfstedt,380000;110000,TenneT;Avacon Netz GmbH,niedersachsen,,
 Aschaffenburg,9.0896933906,49.9684968811,55069713,Umspannwerk Aschaffenburg,380000;110000,TenneT TSO GmbH;Avacon Netz GmbH,bayern,,
 Oberbachern,11.3704087905,48.2914898738,18629425,Umspannwerk Oberbachern,380000;220000;110000,TenneT TSO GmbH;E.ON Netz GmbH,bayern,,
-Sandershausen/O,9.5852784154,51.3313752387,456386244,Sandershausen/Ost,380000;110000,,hessen,,Duplicated OSM name: 456386244 456386244 
-Blockland,8.820024908,53.1073883234,229565743,Blockland,220000;110000,Wesernetz Bremen GmbH,bremen,,Duplicated OSM name: 229565743 229565743 
+Sandershausen/O,9.5852784154,51.3313752387,456386244,Sandershausen/Ost,380000;110000,,hessen,,Duplicated OSM name: 456386244 456386244
+Blockland,8.820024908,53.1073883234,229565743,Blockland,220000;110000,Wesernetz Bremen GmbH,bremen,,Duplicated OSM name: 229565743 229565743
 Luebeck,10.6409524613,53.919444278,130794504,Umspannwerk Lübeck,220000,TenneT TSO,schleswig-holstein,,
 Brunsbuettel,9.2016836039,53.8958146398,30622610,Umspannwerk Kernkraftwerk Brunsbüttel,380000;220000;110000,50Hertz Transmission,schleswig-holstein,,
-Bechterdissen,8.6596100125,52.0003485738,24264701,Bechterdissen,220000;110000,TenneT TSO GmbH,nordrhein-westfalen,,Duplicated OSM name: 24264701 957746797 
+Bechterdissen,8.6596100125,52.0003485738,24264701,Bechterdissen,220000;110000,TenneT TSO GmbH,nordrhein-westfalen,,Duplicated OSM name: 24264701 957746797
 Maade,8.1226402912,53.5605173501,23744346,Umspannwerk Maade,380000;220000,TenneT,niedersachsen,,
 Itzehoe/W,9.4496365865,53.9672865162,60032354,Itzehoe/West,220000;110000,TenneT,schleswig-holstein,,
 Y-Simbach,13.0027661364,48.2619991182,91086220,Umspannwerk Simbach,220000;110000,TenneT TSO GmbH;Bayernwerk Netz GmbH,bayern,,
@@ -105,7 +105,7 @@ Y-Huntorf,8.4089697232,53.1902453545,42872354,Huntorf,220000,EON_Netz,niedersach
 Y-Niederlangen,7.1945649047,52.8698410657,797009308,Niederlangen,380000;110000,TenneT TSO GmbH,niedersachsen,,
 Wehrendorf,8.3077570384,52.3456357031,33411203,Wehrendorf,380000;220000;110000,Amprion,niedersachsen,,
 Ludersheim,11.3271442342,49.3940090687,954971276,Umspannwerk Ludersheim,220000,TenneT TSO GmbH;E.ON Netz GmbH,bayern,,
-Herrenwyk,10.8023580242,53.8975474018,74893659,Umspannwerk Herrenwyk,380000;110000,TenneT TSO GmbH,mecklenburg-vorpommern,,Duplicated OSM name: 74893659 74893659 
+Herrenwyk,10.8023580242,53.8975474018,74893659,Umspannwerk Herrenwyk,380000;110000,TenneT TSO GmbH,mecklenburg-vorpommern,,Duplicated OSM name: 74893659 74893659
 Silz,10.96658,47.26961,95812231,Umspannwerk Silz,220000;110000,TIWAG-Netz AG,,"No 100% match: Because in Austria, manually added",
 Y-Wechold,9.1450844517,52.8527975399,28812249,Wechold,220000,TenneT TSO GmbH;Avacon Netz GmbH,niedersachsen,,
 Isar,12.2968838213,48.6069099457,77697810,Isar,380000,,bayern,,
@@ -118,7 +118,7 @@ Y-Alfstedt,9.0688137984,53.5666351362,31927411,Alfstedt,380000;110000,TenneT;Ava
 Buettel,9.2349352665,53.9168453037,136034396,Konverterstation Büttel,380000;320000;250000,,schleswig-holstein,,
 Hoepfingen,9.4469187479,49.5902629531,145002769,Umspannwerk Höpfingen,380000;110000,EnBW,baden-wuerttemberg,,
 Dauersberg,7.8637588422,50.768088527,152403632,Station Dauersberg,380000;220000;110000,RWE,rheinland-pfalz,,
-Vieselbach,11.123246285,50.9983754522,143882655,Umspannwerk Vieselbach,380000,50Hertz Transmission GmbH,thueringen,,Duplicated OSM name: 143882655 947801636 
+Vieselbach,11.123246285,50.9983754522,143882655,Umspannwerk Vieselbach,380000,50Hertz Transmission GmbH,thueringen,,Duplicated OSM name: 143882655 947801636
 Hardegsen,9.8529284009,51.6492735545,952004951,Hardegsen,380000,TenneT TSO GmbH,niedersachsen,,
 Karben,8.8099489177,50.2035666653,24042358,Umspannwerk Karben,380000;110000,TenneT,hessen,,
 Suederdonn,9.109710529,53.9721944566,289836713,Umspannwerk Süderdonn,380000;110000,TenneT TSO,schleswig-holstein,,
@@ -145,14 +145,14 @@ Voslapp,8.0856506344,53.6058342211,26455019,Voslapp,220000;110000,TenneT;EON_Net
 Kruemmel,10.4146823399,53.4125906359,23366603,Umspannwerk Krümmel,380000,50Hertz Transmission GmbH,schleswig-holstein,,
 Waldeck,9.050394697,51.1673109858,41072584,Waldeck,380000,TenneT TSO GmbH,hessen,,
 Goettingen,9.8822365287,51.5154325972,802246764,Göttingen,220000,TenneT TSO GmbH,niedersachsen,,
-Ovenstaedt,8.9396925656,52.403033288,24604789,Schaltanlage Ovenstädt,380000,TenneT TSO GmbH,niedersachsen,,Duplicated OSM name: 24604789 24604789 
+Ovenstaedt,8.9396925656,52.403033288,24604789,Schaltanlage Ovenstädt,380000,TenneT TSO GmbH,niedersachsen,,Duplicated OSM name: 24604789 24604789
 Schwandorf,12.0822544997,49.297447747,28956649,Schwandorf,380000;220000;110000,"TenneT TSO GmbH, E.ON Netz GmbH",bayern,,
 Marienberg,12.1301906523,47.9131654872,75865676,Marienberg,220000,"Tennet TSO GmbH, E.ON Netz GmbH",bayern,,
 Dillenburg,8.2848618125,50.7590735162,24536328,Dillenburg,380000;110000,e.on;Mitte AG,hessen,,
 Cloppenburg,8.0816267508,52.8586375006,50643382,Cloppenburg 220 kV,220000,TenneT,niedersachsen,,
-Niedervieland,8.6951607957,53.0925361245,44717036,Niedervieland,380000;110000,Wesernetz Bremen GmbH,bremen,,Duplicated OSM name: 44717036 44717036 
+Niedervieland,8.6951607957,53.0925361245,44717036,Niedervieland,380000;110000,Wesernetz Bremen GmbH,bremen,,Duplicated OSM name: 44717036 44717036
 Fedderwarden,8.0636966009,53.5558020113,637595524,Fedderwarden,380000;220000,TenneT,niedersachsen,,
-Hamburg/N,9.9840587916,53.7414791124,22720647,Hamburg Nord,380000;220000,50Hertz Transmission,schleswig-holstein,,Duplicated OSM name: 22720647 28008024 
+Hamburg/N,9.9840587916,53.7414791124,22720647,Hamburg Nord,380000;220000,50Hertz Transmission,schleswig-holstein,,Duplicated OSM name: 22720647 28008024
 Jardelund,9.1969994663,54.8510980541,301158539,Jardelund,380000;110000;20000,TenneT,schleswig-holstein,,
 Trennfeld,9.5943016787,49.7984427334,24765111,Umspannwerk Trennfeld,220000;110000,TenneT TSO GmbH;E.ON Netz GmbH,bayern,,
 Conneforde/O,8.0528132019,53.3319137824,23837631,Conneforde/Ost,380000;220000;110000,TenneT,niedersachsen,,
