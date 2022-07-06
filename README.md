@@ -53,12 +53,13 @@ See [./OSM-locator](./OSM-locator).
 4. Check manually if the choices are correct:
    - If is not the first match, see if it is one of the others (almost always is the second)
    - If there is data missing in OSM: Add it in OSM and return to step 1
-   - Some data is missing because it is actually in a different country, that was added manually, but could be handled later
+5. A couple of dictionries make the linguistic adjustments that maximize the matching names.
+6. Eventually the only substations not found are either located in another country or still under construction.
 
-- Over 95% are already well allocated and the rest is easy to correct
-- Updating the OSM is the most time consuming step, but is easy to do and worth it for the community
-- In OSM sometimes there is more than one substation with the same name: Just take the first one (for now)
-- A 100 % match of the names is impossible (more fancy fuzzywuzzy functions were tested), but the manual adjustments is minimal
+- All the substaions in the Core-TSO data are match to a substaion in OSM (except for the the ones located in a different country or under construction).
+- Updating the OSM is the most time consuming step, but is easy to do and worth it for the community.
+- In OSM sometimes there is more than one substation with the same name: Just take the first one (for now).
+- A 100 % match of the names is impossible (more fancy fuzzywuzzy functions were tested), but the manual adjustments is minimal.
 - The missing data from other countries and Tie Lines and Trafos, could be allocated later
 
 ### Convert locator results pd.DataFrame to YAML
