@@ -1,0 +1,43 @@
+,x,y,OSM_id,OSM_type,OSM_name,OSM_voltage,OSM_operator,country,CORE-TSO_grids,alternative_name,comment
+Soverzene,12.30293,46.20112,159821869,Polygon,Soverzene ,220000,Enel Produzione,IT,AT,,
+Meiningen,9.59192,47.31237,61108302,Polygon,Umspannwerk Meiningen,380000;220000,Vorarlberger Energienetze GmbH,AT,"AT, DE",,"in AT, but no part of any grid, just on the way to CH"
+Ruethi,9.55643,47.30266,455120191,Polygon,Unterwerk Rüthi,220000,Swissgrid,CH,AT,,
+Walgauwerk,9.67006,47.19888,852324809,Polygon,Umspannwerk Walgauwerk,220000,Vorarlberger Energienetze GmbH,AT,"AT, DE",Walgau,"in AT, but no part of any grid, just an end point"
+Pradella,10.33208,46.80492,7933294,MultiPolygon,Pradella,380000;220000,EKW,IT,AT,,
+MONCEAU,4.3718,50.3937,103455240,Polygon,220/150kV Monceau,220000;150000,,BE,"BE, FR",,"in BE, but is part of a ehv grid only connected to FR"
+CHOOZ,4.7914,50.09,118655802,Polygon,Poste électrique de Chooz,225000;63000,RTE,FR,"BE, FR",,"in FR, but 225 kV"
+MONT-SAINT-MARTIN,5.75988,49.54108,118591672,Polygon,Poste électrique du Mont Saint-Martin,225000,RTE,FR,"BE, FR",MT-SAINT-MARTIN,"in FR, but 225 kV"
+NEMO CONVERTOR STATION,3.20968,51.26505,500788534,Polygon,Nemo Link Converter Station ,380000,Elia,BE,BE,,"in BE, but a HVDC converter station"
+Kasso,9.2694,55.0369,95840891,Polygon,400 kV Kassø,400000;220000;150000,Energinet,DK,DE,,
+Vill,11.39245,47.23628,145583866,Polygon,Umspannwerk Vill,220000,TIWAG,AT,DE,,"in AT, but missing in the grid together with Thaur, Strass and Kirchbichl. Actually Vill should be also connected to Zell am Ziller."
+Ertsmyra,6.7533,58.6707,8890888,MultiPolygon,Ertsmyra trafostasjon ,420000,Statnett,NO,DE,,Nordlink HVDC connection
+Asphard,7.75265,47.53915,397960460,Polygon,Asphard ,380000,ALPIQ AXPO,CH,DE,,
+Vogelgrun,7.57267,48.019,81638061,Polygon,Umspannwerk Vogelgrün,225000,RTE,FR,"DE, FR",VOGELGRUN,"in FR, but 225 kV"
+Laufenburg,8.0504,47.5505,50319857,Polygon,Laufenburg,380000;220000,,CH,DE,Y-Laufenburg,
+Beznau,8.2323,47.5559,98648381,Polygon,Unterwerk Beznau,380000;220000;110000,Swissgrid; Axpo,CH,DE,,
+Oftringen,7.9464,47.3175,190819048,Polygon,Unterwerk Oftringen,220000,swissgrid,CH,DE,,
+CAMPOROSSO,7.63,43.8279,103653567,Polygon,Camporosso,220000,Enel Distribuzione,IT,FR,,
+MENTON/TRINITE VICTOR,7.49391,43.78406,674785007,Polygon,Menton,225000,RTE,FR,FR,,"in FR, but 225 kV"
+RONDISSONE,7.936,45.2329,74869121,Polygon,Rondissone,380000,Terna,IT,FR,,
+VENAUS,7.00848,45.16233,491424937,Polygon,Venaus G1 G2,380000,Enel Produzione,IT,FR,,
+S. Mitrovica,19.6126,45.01639,236110936,Polygon,Сремска Митровица 2 ,400000;220000;110000,EMS,RS,HR,,
+Gradacac,18.43601,44.905,692824732,Polygon,Gradačac,220000,,BA,HR,,
+Dakovo,18.42095,45.28866,113757307,Polygon,TS Đakovo ,220000;110000,,HR,HR,,"in HR, but is part of a ehv grid only connected to BA"
+Mostar,17.7697,43.3028,89827347,Polygon,TS Mostar ,400000;220000;110000,,BA,HR,,
+Prijedor,16.71872,44.94099,79818891,Polygon,TS Prijedor,220000;110000,,BA,HR,,
+Trebinje,18.33325,42.67726,245190169,Polygon,TS Trebinje,400000,Elekotroprenos BiH,BA,HR,,
+Plat,18.23577,42.61048,171251171,Polygon,TS Plat,220000,,HR,HR,,"in HR, but is part of a ehv grid only connected to BA"
+Tuzla,18.60486,44.52234,841600752,Polygon,Tuzla TPP,220000,,BA,HR,,
+Ugljevik,18.96601,44.68652,222962996,Polygon,TS Ugljevik,400000,Elektroprijenos BiH/Електропренос БиХ,BA,HR,,
+Mukachevo,22.624,48.4164,203815422,Polygon,Мукачеве-400,400000;220000;110000;35000,Укренерго,UA,"HU, RO, SK",Mukacevo,
+Subotica,19.71343,46.03984,89109496,Polygon,Subotica 3,400000;110000,EMS,RS,HU,,
+Zahidno Ukrainska,24.2489,49.3865,142155240,Polygon,Західноукраїнська-750,750000;330000;15750;6000,Укренерго,UA,HU,,
+ALYTUS,23.9651,54.4382,256339597,Polygon,Alytus LitPol HVDC Back-to-back station ,400000;330000,,LI,PL,,
+DOBROTWOR,24.3764,50.2124,200395114,Polygon,ДТЕС,220000;110000;35000,,UA,PL,,
+STARNO,14.8385,56.153,14939275,MultiPolygon,Stärnö omriktarstation ,400000,Svenska Kraftnät,SE,PL,,
+Djerdap,22.5242,44.665,238952272,MultiPolygon,Djerdap 1,400000;110000,,RS,RO,,
+Varna,27.507,43.3144,144787750,Polygon,Подстанция Варна,750000;400000;15750,НЕК,BG,RO,,
+Kozlodui,23.7777,43.7451,157471230,Polygon,Подстанция Козлодуй ,400000;220000,,BG,RO,,
+Dobrudja,27.5742,43.3327,200516868,Polygon,Dobrudja ,400000;220000;110000,,BG,RO,,
+Redipuglia,13.4715,45.8522,41892273,Polygon,Redipuglia,380000,Terna,IT,SI,,
+Padriciano,13.83145,45.66334,61038773,Polygon,Padriciano,220000,Terna,IT,SI,,
