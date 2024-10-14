@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.4.0
+  rev: v5.0.0
   hooks:
   - id: trailing-whitespace
   - id: check-yaml
@@ -14,6 +14,6 @@ repos:
     args:
     - --remove-kernel-metadata
 - repo: https://github.com/psf/black
-  rev: 22.12.0
+  rev: 24.10.0
   hooks:
   - id: black
