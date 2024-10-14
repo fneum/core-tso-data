@@ -172,13 +172,15 @@ def buses_from_lines(lines, geocode=True):
         lambda s: re.sub(r"([a-z])([A-Z])", r"\1 \2", s) if isinstance(s, str) else s
     )
     buses["name"] = buses.name.apply(
-        lambda s: s.replace("ue", "ü")
-        .replace("ae", "ä")
-        .replace("oe", "ö")
-        .replace("Itzehö", "Itzehoe")
-        .replace("Daürsberg", "Dauersberg")
-        if isinstance(s, str) and s[-2:] in ["DE", "AT"]
-        else s
+        lambda s: (
+            s.replace("ue", "ü")
+            .replace("ae", "ä")
+            .replace("oe", "ö")
+            .replace("Itzehö", "Itzehoe")
+            .replace("Daürsberg", "Dauersberg")
+            if isinstance(s, str) and s[-2:] in ["DE", "AT"]
+            else s
+        )
     )
     if geocode:
         buses = pd.concat([buses, buses.name.apply(locate)], axis=1)
